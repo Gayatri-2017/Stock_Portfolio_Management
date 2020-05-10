@@ -1,0 +1,1128 @@
+date,symbol,sector_name,sentiment,senti_label
+2018-04-01T00:00:00.000-07:00,AAPL,Information Technology,-0.9423,negative
+2018-04-01T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.296,negative
+2018-04-02T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.7932,positive
+2018-04-03T00:00:00.000-07:00,AAPL,Information Technology,0.9559,positive
+2018-04-03T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.7564,positive
+2018-04-04T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.9163,negative
+2018-04-05T00:00:00.000-07:00,DAL,Industrials,-0.7783,negative
+2018-04-06T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8658,positive
+2018-04-07T00:00:00.000-07:00,AET,Health Care,0.4939,positive
+2018-04-10T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.34,positive
+2018-04-11T00:00:00.000-07:00,AAPL,Information Technology,0.0,neutral
+2018-04-11T00:00:00.000-07:00,EFX,Industrials,-0.5267,negative
+2018-04-11T00:00:00.000-07:00,XOM,Energy,0.7351,positive
+2018-04-12T00:00:00.000-07:00,BA,Industrials,0.9022,positive
+2018-04-13T00:00:00.000-07:00,AAPL,Information Technology,-0.0361,negative
+2018-04-13T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.2168,positive
+2018-04-17T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.802,positive
+2018-04-17T00:00:00.000-07:00,AAPL,Information Technology,0.876,positive
+2018-04-18T00:00:00.000-07:00,AAPL,Information Technology,-0.5719,negative
+2018-04-18T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.6808,positive
+2018-04-18T00:00:00.000-07:00,XOM,Energy,-0.8402,negative
+2018-04-19T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.4019,negative
+2018-04-19T00:00:00.000-07:00,BA,Industrials,-0.765,negative
+2018-04-20T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.3612,positive
+2018-04-20T00:00:00.000-07:00,BA,Industrials,0.4215,positive
+2018-04-22T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.7024,positive
+2018-04-23T00:00:00.000-07:00,AAPL,Information Technology,-0.7351,negative
+2018-04-23T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.6124,positive
+2018-04-24T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.8885,negative
+2018-04-24T00:00:00.000-07:00,CAT,Industrials,-0.91,negative
+2018-04-24T00:00:00.000-07:00,MMM,Industrials,-0.91,negative
+2018-04-25T00:00:00.000-07:00,COP,Energy,-0.1779,negative
+2018-04-25T00:00:00.000-07:00,XOM,Energy,-0.1779,negative
+2018-04-25T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9287,positive
+2018-04-26T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8442,positive
+2018-04-27T00:00:00.000-07:00,DAL,Industrials,0.9726,positive
+2018-04-29T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.1531,negative
+2018-04-30T00:00:00.000-07:00,CAT,Industrials,-0.1531,negative
+2018-05-01T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.0,neutral
+2018-05-02T00:00:00.000-07:00,AAPL,Information Technology,0.8934,positive
+2018-05-02T00:00:00.000-07:00,BA,Industrials,-0.9413,negative
+2018-05-03T00:00:00.000-07:00,AAPL,Information Technology,0.7964,positive
+2018-05-03T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.7717,negative
+2018-05-03T00:00:00.000-07:00,BA,Industrials,-0.743,negative
+2018-05-04T00:00:00.000-07:00,SCHW,Financials,0.6808,positive
+2018-05-05T00:00:00.000-07:00,AAPL,Information Technology,0.9531,positive
+2018-05-05T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9349,positive
+2018-05-06T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.0258,negative
+2018-05-07T00:00:00.000-07:00,AAPL,Information Technology,0.891,positive
+2018-05-07T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9274,positive
+2018-05-08T00:00:00.000-07:00,AMD,Information Technology,0.7351,positive
+2018-05-08T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.0772,positive
+2018-05-09T00:00:00.000-07:00,XOM,Energy,-0.8689,negative
+2018-05-09T00:00:00.000-07:00,BA,Industrials,-0.743,negative
+2018-05-09T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.4767,negative
+2018-05-10T00:00:00.000-07:00,AAPL,Information Technology,0.9325,positive
+2018-05-10T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8074,positive
+2018-05-11T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9371,positive
+2018-05-15T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.6124,negative
+2018-05-15T00:00:00.000-07:00,BA,Industrials,-0.2263,negative
+2018-05-16T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.0258,negative
+2018-05-16T00:00:00.000-07:00,BA,Industrials,-0.0258,negative
+2018-05-17T00:00:00.000-07:00,COP,Energy,-0.4767,negative
+2018-05-17T00:00:00.000-07:00,AMGN,Health Care,-0.9524,negative
+2018-05-18T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.6916,positive
+2018-05-19T00:00:00.000-07:00,AAPL,Information Technology,0.836,positive
+2018-05-19T00:00:00.000-07:00,ANTM,Health Care,-0.9732,negative
+2018-05-20T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9442,positive
+2018-05-22T00:00:00.000-07:00,AAPL,Information Technology,0.9235,positive
+2018-05-22T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.5994,negative
+2018-05-23T00:00:00.000-07:00,MMM,Industrials,0.0,neutral
+2018-05-23T00:00:00.000-07:00,AAPL,Information Technology,0.4588,positive
+2018-05-23T00:00:00.000-07:00,DAL,Industrials,-0.5423,negative
+2018-05-24T00:00:00.000-07:00,AMGN,Health Care,-0.2373,negative
+2018-05-24T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.7003,negative
+2018-05-25T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.9055,negative
+2018-05-29T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.4767,positive
+2018-05-30T00:00:00.000-07:00,KO,Consumer Staples,0.521,positive
+2018-05-31T00:00:00.000-07:00,AAPL,Information Technology,-0.0772,negative
+2018-05-31T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.8779,negative
+2018-06-01T00:00:00.000-07:00,KO,Consumer Staples,0.0,neutral
+2018-06-01T00:00:00.000-07:00,AAPL,Information Technology,0.9201,positive
+2018-06-01T00:00:00.000-07:00,EFX,Industrials,0.9337,positive
+2018-06-03T00:00:00.000-07:00,AAPL,Information Technology,-0.25,negative
+2018-06-04T00:00:00.000-07:00,AAPL,Information Technology,0.3182,positive
+2018-06-04T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.0,neutral
+2018-06-05T00:00:00.000-07:00,AAPL,Information Technology,0.9153,positive
+2018-06-05T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9766,positive
+2018-06-06T00:00:00.000-07:00,AAPL,Information Technology,0.926,positive
+2018-06-07T00:00:00.000-07:00,XOM,Energy,0.891,positive
+2018-06-07T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.7269,positive
+2018-06-07T00:00:00.000-07:00,DAL,Industrials,-0.3182,negative
+2018-06-08T00:00:00.000-07:00,AAPL,Information Technology,0.5719,positive
+2018-06-08T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.7421,positive
+2018-06-09T00:00:00.000-07:00,XOM,Energy,0.1027,positive
+2018-06-11T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9571,positive
+2018-06-11T00:00:00.000-07:00,BA,Industrials,0.7845,positive
+2018-06-12T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.2023,positive
+2018-06-13T00:00:00.000-07:00,AAPL,Information Technology,0.8126,positive
+2018-06-13T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.0,neutral
+2018-06-14T00:00:00.000-07:00,BA,Industrials,0.7783,positive
+2018-06-15T00:00:00.000-07:00,AAPL,Information Technology,0.4939,positive
+2018-06-15T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.8519,negative
+2018-06-17T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.4588,negative
+2018-06-18T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.1531,positive
+2018-06-18T00:00:00.000-07:00,AAPL,Information Technology,-0.0258,negative
+2018-06-19T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.0,neutral
+2018-06-19T00:00:00.000-07:00,AAPL,Information Technology,0.5859,positive
+2018-06-20T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9756,positive
+2018-06-20T00:00:00.000-07:00,EFX,Industrials,0.9186,positive
+2018-06-20T00:00:00.000-07:00,XOM,Energy,0.4939,positive
+2018-06-21T00:00:00.000-07:00,AAPL,Information Technology,0.3182,positive
+2018-06-21T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9607,positive
+2018-06-22T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.331,negative
+2018-06-22T00:00:00.000-07:00,EFX,Industrials,0.9393,positive
+2018-06-23T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.0,neutral
+2018-06-24T00:00:00.000-07:00,KO,Consumer Staples,0.7506,positive
+2018-06-25T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.3818,negative
+2018-06-25T00:00:00.000-07:00,DAL,Industrials,-0.0516,negative
+2018-06-26T00:00:00.000-07:00,AAPL,Information Technology,0.9201,positive
+2018-06-26T00:00:00.000-07:00,ABT,Health Care,0.25,positive
+2018-06-26T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9201,positive
+2018-06-27T00:00:00.000-07:00,EFX,Industrials,0.4019,positive
+2018-06-27T00:00:00.000-07:00,AAPL,Information Technology,0.25,positive
+2018-06-28T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9837,positive
+2018-06-28T00:00:00.000-07:00,EFX,Industrials,0.3182,positive
+2018-06-29T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.0258,positive
+2018-06-29T00:00:00.000-07:00,KO,Consumer Staples,-0.6815,negative
+2018-07-02T00:00:00.000-07:00,ABC,Health Care,0.8625,positive
+2018-07-02T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.886,positive
+2018-07-03T00:00:00.000-07:00,AAPL,Information Technology,0.9201,positive
+2018-07-03T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9201,positive
+2018-07-05T00:00:00.000-07:00,AAPL,Information Technology,0.5267,positive
+2018-07-05T00:00:00.000-07:00,BA,Industrials,0.6124,positive
+2018-07-08T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.5574,negative
+2018-07-09T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.34,positive
+2018-07-10T00:00:00.000-07:00,AAPL,Information Technology,0.6597,positive
+2018-07-10T00:00:00.000-07:00,BA,Industrials,0.3612,positive
+2018-07-11T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.6908,positive
+2018-07-11T00:00:00.000-07:00,AAPL,Information Technology,-0.7585,negative
+2018-07-13T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9843,positive
+2018-07-13T00:00:00.000-07:00,AAPL,Information Technology,-0.0516,negative
+2018-07-14T00:00:00.000-07:00,AAPL,Information Technology,-0.4753,negative
+2018-07-14T00:00:00.000-07:00,KO,Consumer Staples,-0.8625,negative
+2018-07-15T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.1531,negative
+2018-07-16T00:00:00.000-07:00,BA,Industrials,0.8658,positive
+2018-07-18T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.5859,negative
+2018-07-19T00:00:00.000-07:00,AAPL,Information Technology,-0.1531,negative
+2018-07-19T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9477,positive
+2018-07-19T00:00:00.000-07:00,ANTM,Health Care,0.5417,positive
+2018-07-19T00:00:00.000-07:00,COP,Energy,-0.8074,negative
+2018-07-19T00:00:00.000-07:00,XOM,Energy,-0.8074,negative
+2018-07-20T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9001,positive
+2018-07-20T00:00:00.000-07:00,XOM,Energy,0.8957,positive
+2018-07-22T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.25,negative
+2018-07-24T00:00:00.000-07:00,BA,Industrials,0.9287,positive
+2018-07-25T00:00:00.000-07:00,CMI,Industrials,0.8658,positive
+2018-07-25T00:00:00.000-07:00,DAL,Industrials,0.4019,positive
+2018-07-25T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.4019,positive
+2018-07-26T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.296,positive
+2018-07-29T00:00:00.000-07:00,AAPL,Information Technology,0.7906,positive
+2018-07-30T00:00:00.000-07:00,BA,Industrials,-0.7783,negative
+2018-07-30T00:00:00.000-07:00,CAT,Industrials,-0.6486,negative
+2018-07-30T00:00:00.000-07:00,KO,Consumer Staples,-0.6486,negative
+2018-07-31T00:00:00.000-07:00,AAPL,Information Technology,0.891,positive
+2018-08-01T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.7971,positive
+2018-08-01T00:00:00.000-07:00,AAPL,Information Technology,0.7971,positive
+2018-08-01T00:00:00.000-07:00,XOM,Energy,0.8096,positive
+2018-08-02T00:00:00.000-07:00,AAPL,Information Technology,0.8268,positive
+2018-08-02T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9524,positive
+2018-08-03T00:00:00.000-07:00,BA,Industrials,0.0,neutral
+2018-08-03T00:00:00.000-07:00,XOM,Energy,0.0772,positive
+2018-08-03T00:00:00.000-07:00,AAPL,Information Technology,0.8442,positive
+2018-08-03T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8957,positive
+2018-08-05T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.0,neutral
+2018-08-06T00:00:00.000-07:00,DAL,Industrials,-0.7579,negative
+2018-08-06T00:00:00.000-07:00,AAPL,Information Technology,-0.9477,negative
+2018-08-07T00:00:00.000-07:00,AAPL,Information Technology,-0.9287,negative
+2018-08-08T00:00:00.000-07:00,AAPL,Information Technology,-0.8807,negative
+2018-08-08T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.0,neutral
+2018-08-09T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.7364,negative
+2018-08-10T00:00:00.000-07:00,SCHW,Financials,-0.6705,negative
+2018-08-11T00:00:00.000-07:00,ALK,Industrials,-0.9741,negative
+2018-08-12T00:00:00.000-07:00,ALK,Industrials,0.0258,positive
+2018-08-13T00:00:00.000-07:00,AAPL,Information Technology,0.5106,positive
+2018-08-14T00:00:00.000-07:00,AAPL,Information Technology,-0.946,negative
+2018-08-14T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.7015,positive
+2018-08-17T00:00:00.000-07:00,AAPL,Information Technology,0.6369,positive
+2018-08-17T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.6369,positive
+2018-08-20T00:00:00.000-07:00,COP,Energy,-0.4215,negative
+2018-08-21T00:00:00.000-07:00,AAPL,Information Technology,0.34,positive
+2018-08-21T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.6808,positive
+2018-08-21T00:00:00.000-07:00,KO,Consumer Staples,0.7184,positive
+2018-08-22T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.2732,positive
+2018-08-23T00:00:00.000-07:00,AAPL,Information Technology,-0.846,negative
+2018-08-24T00:00:00.000-07:00,AMD,Information Technology,0.0,neutral
+2018-08-25T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9169,positive
+2018-08-30T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9712,positive
+2018-08-31T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.7096,positive
+2018-08-31T00:00:00.000-07:00,KO,Consumer Staples,-0.25,negative
+2018-09-03T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.9029,negative
+2018-09-04T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8591,positive
+2018-09-05T00:00:00.000-07:00,AAPL,Information Technology,0.5106,positive
+2018-09-05T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8625,positive
+2018-09-06T00:00:00.000-07:00,AAPL,Information Technology,-0.5574,negative
+2018-09-06T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.4878,negative
+2018-09-07T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.7783,positive
+2018-09-07T00:00:00.000-07:00,SCHW,Financials,0.6705,positive
+2018-09-08T00:00:00.000-07:00,AAPL,Information Technology,-0.9451,negative
+2018-09-09T00:00:00.000-07:00,AAPL,Information Technology,0.0,neutral
+2018-09-11T00:00:00.000-07:00,AAPL,Information Technology,0.4215,positive
+2018-09-12T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9186,positive
+2018-09-12T00:00:00.000-07:00,AAPL,Information Technology,0.8979,positive
+2018-09-13T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.4019,positive
+2018-09-14T00:00:00.000-07:00,AAPL,Information Technology,0.9201,positive
+2018-09-14T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9943,positive
+2018-09-14T00:00:00.000-07:00,EFX,Industrials,0.9726,positive
+2018-09-17T00:00:00.000-07:00,AAPL,Information Technology,-0.9199,negative
+2018-09-17T00:00:00.000-07:00,KO,Consumer Staples,-0.6124,negative
+2018-09-18T00:00:00.000-07:00,AAPL,Information Technology,0.9485,positive
+2018-09-18T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9871,positive
+2018-09-19T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9904,positive
+2018-09-19T00:00:00.000-07:00,AAPL,Information Technology,0.0,neutral
+2018-09-20T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.3089,negative
+2018-09-20T00:00:00.000-07:00,DAL,Industrials,0.2732,positive
+2018-09-21T00:00:00.000-07:00,AET,Health Care,-0.8891,negative
+2018-09-23T00:00:00.000-07:00,AAPL,Information Technology,-0.7579,negative
+2018-09-23T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9614,positive
+2018-09-24T00:00:00.000-07:00,AAPL,Information Technology,0.0,neutral
+2018-09-24T00:00:00.000-07:00,XOM,Energy,-0.6705,negative
+2018-09-25T00:00:00.000-07:00,AAPL,Information Technology,0.3612,positive
+2018-09-26T00:00:00.000-07:00,AAPL,Information Technology,-0.8074,negative
+2018-09-26T00:00:00.000-07:00,AEE,Utilities,0.3182,positive
+2018-09-26T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.1779,negative
+2018-09-26T00:00:00.000-07:00,DAL,Industrials,-0.7506,negative
+2018-09-28T00:00:00.000-07:00,AAPL,Information Technology,0.6808,positive
+2018-09-28T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.7717,negative
+2018-09-28T00:00:00.000-07:00,EFX,Industrials,0.921,positive
+2018-10-01T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.4939,negative
+2018-10-02T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.4215,positive
+2018-10-02T00:00:00.000-07:00,AMGN,Health Care,0.8225,positive
+2018-10-03T00:00:00.000-07:00,AAPL,Information Technology,-0.7996,negative
+2018-10-03T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.296,negative
+2018-10-05T00:00:00.000-07:00,AAPL,Information Technology,-0.5574,negative
+2018-10-05T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.854,negative
+2018-10-08T00:00:00.000-07:00,AAPL,Information Technology,0.6249,positive
+2018-10-08T00:00:00.000-07:00,XOM,Energy,-0.128,negative
+2018-10-09T00:00:00.000-07:00,XOM,Energy,0.7003,positive
+2018-10-09T00:00:00.000-07:00,AMGN,Health Care,0.6369,positive
+2018-10-09T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.6249,negative
+2018-10-10T00:00:00.000-07:00,AET,Health Care,0.9136,positive
+2018-10-10T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.1531,positive
+2018-10-11T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.891,negative
+2018-10-12T00:00:00.000-07:00,AAPL,Information Technology,0.6249,positive
+2018-10-12T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.6249,positive
+2018-10-12T00:00:00.000-07:00,NI,Utilities,0.1027,positive
+2018-10-12T00:00:00.000-07:00,SCHW,Financials,-0.9004,negative
+2018-10-15T00:00:00.000-07:00,ABBV,Health Care,-0.6369,negative
+2018-10-15T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.4404,positive
+2018-10-16T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.824,positive
+2018-10-16T00:00:00.000-07:00,EFX,Industrials,-0.9337,negative
+2018-10-17T00:00:00.000-07:00,KO,Consumer Staples,-0.5859,negative
+2018-10-18T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.1311,positive
+2018-10-18T00:00:00.000-07:00,DAL,Industrials,0.9427,positive
+2018-10-19T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8519,positive
+2018-10-19T00:00:00.000-07:00,ALL,Financials,0.3182,positive
+2018-10-21T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.0,neutral
+2018-10-22T00:00:00.000-07:00,KO,Consumer Staples,0.0,neutral
+2018-10-23T00:00:00.000-07:00,AAPL,Information Technology,0.9661,positive
+2018-10-23T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9501,positive
+2018-10-23T00:00:00.000-07:00,CAT,Industrials,-0.25,negative
+2018-10-23T00:00:00.000-07:00,MMM,Industrials,-0.25,negative
+2018-10-24T00:00:00.000-07:00,XOM,Energy,0.296,positive
+2018-10-25T00:00:00.000-07:00,AAPL,Information Technology,-0.5574,negative
+2018-10-25T00:00:00.000-07:00,AMGN,Health Care,0.2023,positive
+2018-10-25T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9133,positive
+2018-10-25T00:00:00.000-07:00,MO,Consumer Staples,-0.8402,negative
+2018-10-26T00:00:00.000-07:00,AAPL,Information Technology,0.0516,positive
+2018-10-26T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8621,positive
+2018-10-26T00:00:00.000-07:00,EFX,Industrials,0.8591,positive
+2018-10-29T00:00:00.000-07:00,BA,Industrials,-0.9081,negative
+2018-10-30T00:00:00.000-07:00,BA,Industrials,-0.5859,negative
+2018-10-30T00:00:00.000-07:00,AAPL,Information Technology,0.8271,positive
+2018-10-30T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.5267,positive
+2018-10-31T00:00:00.000-07:00,AAPL,Information Technology,0.3612,positive
+2018-10-31T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.5799,positive
+2018-10-31T00:00:00.000-07:00,BA,Industrials,-0.34,negative
+2018-11-01T00:00:00.000-07:00,AAPL,Information Technology,0.8689,positive
+2018-11-01T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8689,positive
+2018-11-01T00:00:00.000-07:00,KO,Consumer Staples,0.719,positive
+2018-11-02T00:00:00.000-07:00,XOM,Energy,0.7579,positive
+2018-11-02T00:00:00.000-07:00,KO,Consumer Staples,-0.8176,negative
+2018-11-02T00:00:00.000-07:00,DAL,Industrials,-0.8402,negative
+2018-11-02T00:00:00.000-07:00,AAPL,Information Technology,-0.9382,negative
+2018-11-04T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.3612,negative
+2018-11-06T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9917,positive
+2018-11-07T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.969,positive
+2018-11-07T00:00:00.000-08:00,BA,Industrials,-0.9565,negative
+2018-11-08T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.0,neutral
+2018-11-09T00:00:00.000-08:00,DAL,Industrials,0.9217,positive
+2018-11-09T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.3182,negative
+2018-11-09T00:00:00.000-08:00,BA,Industrials,-0.5859,negative
+2018-11-10T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.986,positive
+2018-11-10T00:00:00.000-08:00,BA,Industrials,-0.8126,negative
+2018-11-12T00:00:00.000-08:00,AAPL,Information Technology,-0.1531,negative
+2018-11-12T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.3182,positive
+2018-11-13T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9709,positive
+2018-11-13T00:00:00.000-08:00,BA,Industrials,-0.9674,negative
+2018-11-14T00:00:00.000-08:00,AAPL,Information Technology,-0.1139,negative
+2018-11-14T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9929,positive
+2018-11-15T00:00:00.000-08:00,AAPL,Information Technology,-0.9382,negative
+2018-11-15T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9954,positive
+2018-11-15T00:00:00.000-08:00,SCHW,Financials,0.2263,positive
+2018-11-16T00:00:00.000-08:00,BA,Industrials,0.6908,positive
+2018-11-16T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9577,positive
+2018-11-19T00:00:00.000-08:00,AMAT,Information Technology,0.7092,positive
+2018-11-19T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9538,positive
+2018-11-19T00:00:00.000-08:00,AAPL,Information Technology,0.9274,positive
+2018-11-20T00:00:00.000-08:00,AAPL,Information Technology,0.1531,positive
+2018-11-20T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.25,negative
+2018-11-21T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.6597,positive
+2018-11-22T00:00:00.000-08:00,AAPL,Information Technology,-0.2732,negative
+2018-11-22T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9022,positive
+2018-11-23T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9042,positive
+2018-11-25T00:00:00.000-08:00,XOM,Energy,-0.7783,negative
+2018-11-26T00:00:00.000-08:00,AAPL,Information Technology,0.4404,positive
+2018-11-26T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.4404,positive
+2018-11-27T00:00:00.000-08:00,AAPL,Information Technology,0.0772,positive
+2018-11-27T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.8402,negative
+2018-11-27T00:00:00.000-08:00,BA,Industrials,-0.9062,negative
+2018-11-28T00:00:00.000-08:00,AAPL,Information Technology,0.0,neutral
+2018-11-29T00:00:00.000-08:00,MO,Consumer Staples,0.5267,positive
+2018-11-29T00:00:00.000-08:00,AAPL,Information Technology,0.8442,positive
+2018-11-30T00:00:00.000-08:00,AAPL,Information Technology,-0.7717,negative
+2018-12-01T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9432,positive
+2018-12-02T00:00:00.000-08:00,AAPL,Information Technology,0.7425,positive
+2018-12-02T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9524,positive
+2018-12-03T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.981,positive
+2018-12-04T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.6705,negative
+2018-12-04T00:00:00.000-08:00,CAT,Industrials,0.5859,positive
+2018-12-04T00:00:00.000-08:00,MO,Consumer Staples,0.7537,positive
+2018-12-05T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.1779,negative
+2018-12-08T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.8912,positive
+2018-12-10T00:00:00.000-08:00,AAPL,Information Technology,0.1124,positive
+2018-12-10T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.8481,negative
+2018-12-11T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.6249,positive
+2018-12-11T00:00:00.000-08:00,KO,Consumer Staples,0.9263,positive
+2018-12-12T00:00:00.000-08:00,KO,Consumer Staples,0.5719,positive
+2018-12-12T00:00:00.000-08:00,MO,Consumer Staples,0.5719,positive
+2018-12-12T00:00:00.000-08:00,AAPL,Information Technology,0.9349,positive
+2018-12-12T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9905,positive
+2018-12-13T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.601,negative
+2018-12-13T00:00:00.000-08:00,AAPL,Information Technology,0.0772,positive
+2018-12-14T00:00:00.000-08:00,AAPL,Information Technology,0.1027,positive
+2018-12-14T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.0,neutral
+2018-12-15T00:00:00.000-08:00,AAPL,Information Technology,0.9241,positive
+2018-12-16T00:00:00.000-08:00,AAPL,Information Technology,0.9349,positive
+2018-12-16T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9719,positive
+2018-12-17T00:00:00.000-08:00,ABT,Health Care,0.4404,positive
+2018-12-17T00:00:00.000-08:00,ANTM,Health Care,0.8225,positive
+2018-12-17T00:00:00.000-08:00,DAL,Industrials,0.9136,positive
+2018-12-18T00:00:00.000-08:00,AAPL,Information Technology,0.6369,positive
+2018-12-18T00:00:00.000-08:00,AET,Health Care,-0.2732,negative
+2018-12-18T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.6369,positive
+2018-12-19T00:00:00.000-08:00,MO,Consumer Staples,0.765,positive
+2018-12-20T00:00:00.000-08:00,AAPL,Information Technology,-0.8591,negative
+2018-12-20T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.9371,negative
+2018-12-20T00:00:00.000-08:00,MO,Consumer Staples,0.8271,positive
+2018-12-21T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9413,positive
+2018-12-21T00:00:00.000-08:00,AAPL,Information Technology,0.0,neutral
+2018-12-21T00:00:00.000-08:00,AET,Health Care,0.7003,positive
+2018-12-23T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.899,positive
+2018-12-23T00:00:00.000-08:00,XOM,Energy,-0.9274,negative
+2018-12-24T00:00:00.000-08:00,AAPL,Information Technology,0.2023,positive
+2018-12-24T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.2023,positive
+2018-12-24T00:00:00.000-08:00,BA,Industrials,0.4019,positive
+2018-12-26T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.802,positive
+2018-12-27T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9735,positive
+2018-12-27T00:00:00.000-08:00,DAL,Industrials,0.4416,positive
+2018-12-28T00:00:00.000-08:00,EFX,Industrials,0.9628,positive
+2018-12-29T00:00:00.000-08:00,AAPL,Information Technology,0.0258,positive
+2018-12-29T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.3612,negative
+2018-12-30T00:00:00.000-08:00,BA,Industrials,0.875,positive
+2019-01-01T00:00:00.000-08:00,AAPL,Information Technology,0.0,neutral
+2019-01-01T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.2263,positive
+2019-01-02T00:00:00.000-08:00,APH,Information Technology,-0.6705,negative
+2019-01-02T00:00:00.000-08:00,AAPL,Information Technology,-0.875,negative
+2019-01-03T00:00:00.000-08:00,AAPL,Information Technology,0.7351,positive
+2019-01-03T00:00:00.000-08:00,AMD,Information Technology,-0.4767,negative
+2019-01-03T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.1695,negative
+2019-01-04T00:00:00.000-08:00,AAPL,Information Technology,0.5186,positive
+2019-01-04T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.128,negative
+2019-01-04T00:00:00.000-08:00,MO,Consumer Staples,-0.6705,negative
+2019-01-05T00:00:00.000-08:00,AAPL,Information Technology,-0.8625,negative
+2019-01-06T00:00:00.000-08:00,AAPL,Information Technology,0.91,positive
+2019-01-07T00:00:00.000-08:00,AAPL,Information Technology,0.9403,positive
+2019-01-07T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9403,positive
+2019-01-08T00:00:00.000-08:00,AAPL,Information Technology,-0.7269,negative
+2019-01-08T00:00:00.000-08:00,MMM,Industrials,0.3818,positive
+2019-01-09T00:00:00.000-08:00,KO,Consumer Staples,0.6597,positive
+2019-01-09T00:00:00.000-08:00,BA,Industrials,0.2139,positive
+2019-01-09T00:00:00.000-08:00,AAPL,Information Technology,0.3818,positive
+2019-01-09T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.7351,positive
+2019-01-10T00:00:00.000-08:00,AAPL,Information Technology,-0.8613,negative
+2019-01-10T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.428,negative
+2019-01-11T00:00:00.000-08:00,AAPL,Information Technology,0.7184,positive
+2019-01-11T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.4939,positive
+2019-01-11T00:00:00.000-08:00,EFX,Industrials,0.9869,positive
+2019-01-11T00:00:00.000-08:00,MO,Consumer Staples,0.4215,positive
+2019-01-12T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.8591,positive
+2019-01-14T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.7783,positive
+2019-01-14T00:00:00.000-08:00,BA,Industrials,-0.9735,negative
+2019-01-14T00:00:00.000-08:00,DAL,Industrials,0.34,positive
+2019-01-15T00:00:00.000-08:00,AAPL,Information Technology,0.9153,positive
+2019-01-15T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9153,positive
+2019-01-16T00:00:00.000-08:00,DAL,Industrials,0.8591,positive
+2019-01-17T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.7351,positive
+2019-01-18T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9531,positive
+2019-01-19T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9325,positive
+2019-01-20T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.8316,positive
+2019-01-21T00:00:00.000-08:00,DAL,Industrials,0.9595,positive
+2019-01-22T00:00:00.000-08:00,AAPL,Information Technology,0.3818,positive
+2019-01-23T00:00:00.000-08:00,DAL,Industrials,-0.296,negative
+2019-01-23T00:00:00.000-08:00,AAPL,Information Technology,0.0,neutral
+2019-01-25T00:00:00.000-08:00,AAPL,Information Technology,0.2914,positive
+2019-01-25T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.6369,negative
+2019-01-26T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.91,positive
+2019-01-28T00:00:00.000-08:00,AAPL,Information Technology,-0.3151,negative
+2019-01-28T00:00:00.000-08:00,CAT,Industrials,-0.4019,negative
+2019-01-29T00:00:00.000-08:00,AAPL,Information Technology,0.9042,positive
+2019-01-30T00:00:00.000-08:00,AAPL,Information Technology,0.9552,positive
+2019-01-30T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.8984,negative
+2019-01-31T00:00:00.000-08:00,AAPL,Information Technology,-0.8885,negative
+2019-01-31T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.743,positive
+2019-02-01T00:00:00.000-08:00,AAPL,Information Technology,0.5878,positive
+2019-02-01T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.995,positive
+2019-02-02T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.8689,positive
+2019-02-03T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.976,positive
+2019-02-03T00:00:00.000-08:00,BA,Industrials,0.7845,positive
+2019-02-03T00:00:00.000-08:00,AAPL,Information Technology,0.9283,positive
+2019-02-04T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.9274,negative
+2019-02-05T00:00:00.000-08:00,AAPL,Information Technology,0.6808,positive
+2019-02-05T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.0,neutral
+2019-02-05T00:00:00.000-08:00,XOM,Energy,0.8402,positive
+2019-02-06T00:00:00.000-08:00,AAPL,Information Technology,0.6124,positive
+2019-02-06T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.794,negative
+2019-02-07T00:00:00.000-08:00,BA,Industrials,0.3818,positive
+2019-02-07T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.946,negative
+2019-02-08T00:00:00.000-08:00,AAPL,Information Technology,-0.3612,negative
+2019-02-08T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.7351,negative
+2019-02-09T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.7096,negative
+2019-02-10T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9801,positive
+2019-02-11T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.0772,positive
+2019-02-12T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9233,positive
+2019-02-13T00:00:00.000-08:00,AAPL,Information Technology,-0.8402,negative
+2019-02-13T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.5267,negative
+2019-02-14T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.7083,positive
+2019-02-15T00:00:00.000-08:00,AAPL,Information Technology,0.0,neutral
+2019-02-15T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9869,positive
+2019-02-15T00:00:00.000-08:00,DAL,Industrials,0.8271,positive
+2019-02-16T00:00:00.000-08:00,AAPL,Information Technology,0.875,positive
+2019-02-16T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.7542,negative
+2019-02-18T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.296,negative
+2019-02-19T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.6486,positive
+2019-02-20T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.0,neutral
+2019-02-21T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.969,negative
+2019-02-21T00:00:00.000-08:00,DAL,Industrials,0.2732,positive
+2019-02-22T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.9868,negative
+2019-02-24T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.7184,positive
+2019-02-26T00:00:00.000-08:00,AAPL,Information Technology,0.8834,positive
+2019-02-26T00:00:00.000-08:00,ABBV,Health Care,-0.5859,negative
+2019-02-27T00:00:00.000-08:00,BA,Industrials,0.8779,positive
+2019-02-28T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.3818,positive
+2019-03-01T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.8625,positive
+2019-03-02T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.25,negative
+2019-03-03T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.2263,negative
+2019-03-03T00:00:00.000-08:00,DAL,Industrials,0.0,neutral
+2019-03-04T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.6486,positive
+2019-03-06T00:00:00.000-08:00,AAPL,Information Technology,0.8979,positive
+2019-03-06T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9958,positive
+2019-03-07T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.7269,positive
+2019-03-08T00:00:00.000-08:00,AAPL,Information Technology,-0.2263,negative
+2019-03-08T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.2263,negative
+2019-03-08T00:00:00.000-08:00,EFX,Industrials,0.8349,positive
+2019-03-09T00:00:00.000-08:00,AAPL,Information Technology,0.9382,positive
+2019-03-09T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9382,positive
+2019-03-10T00:00:00.000-08:00,BA,Industrials,-0.9761,negative
+2019-03-11T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9186,positive
+2019-03-11T00:00:00.000-07:00,BA,Industrials,-0.9914,negative
+2019-03-12T00:00:00.000-07:00,BA,Industrials,-0.9739,negative
+2019-03-12T00:00:00.000-07:00,ALL,Financials,0.8625,positive
+2019-03-13T00:00:00.000-07:00,AAPL,Information Technology,0.8519,positive
+2019-03-13T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.34,negative
+2019-03-13T00:00:00.000-07:00,BA,Industrials,-0.9796,negative
+2019-03-14T00:00:00.000-07:00,BA,Industrials,-0.99,negative
+2019-03-15T00:00:00.000-07:00,AAPL,Information Technology,0.1779,positive
+2019-03-15T00:00:00.000-07:00,BA,Industrials,-0.875,negative
+2019-03-15T00:00:00.000-07:00,MO,Consumer Staples,0.8598,positive
+2019-03-16T00:00:00.000-07:00,BA,Industrials,0.9153,positive
+2019-03-17T00:00:00.000-07:00,AAPL,Information Technology,0.3976,positive
+2019-03-17T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.3862,negative
+2019-03-17T00:00:00.000-07:00,BA,Industrials,-0.7964,negative
+2019-03-18T00:00:00.000-07:00,BA,Industrials,0.2023,positive
+2019-03-19T00:00:00.000-07:00,AAPL,Information Technology,0.9769,positive
+2019-03-19T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.0936,negative
+2019-03-19T00:00:00.000-07:00,BA,Industrials,0.8176,positive
+2019-03-20T00:00:00.000-07:00,BA,Industrials,-0.8519,negative
+2019-03-20T00:00:00.000-07:00,AAPL,Information Technology,0.0772,positive
+2019-03-20T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.9239,negative
+2019-03-21T00:00:00.000-07:00,BA,Industrials,0.1779,positive
+2019-03-22T00:00:00.000-07:00,AAPL,Information Technology,-0.7579,negative
+2019-03-22T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.6124,positive
+2019-03-22T00:00:00.000-07:00,BA,Industrials,-0.5719,negative
+2019-03-23T00:00:00.000-07:00,BA,Industrials,0.9153,positive
+2019-03-24T00:00:00.000-07:00,BA,Industrials,0.0,neutral
+2019-03-25T00:00:00.000-07:00,AAPL,Information Technology,0.8555,positive
+2019-03-26T00:00:00.000-07:00,AAPL,Information Technology,0.8481,positive
+2019-03-26T00:00:00.000-07:00,BA,Industrials,-0.9413,negative
+2019-03-26T00:00:00.000-07:00,FMC,Materials,0.4215,positive
+2019-03-26T00:00:00.000-07:00,XOM,Energy,0.673,positive
+2019-03-27T00:00:00.000-07:00,CNC,Health Care,0.9393,positive
+2019-03-27T00:00:00.000-07:00,BA,Industrials,0.7167,positive
+2019-03-28T00:00:00.000-07:00,CAH,Health Care,-0.5719,negative
+2019-03-28T00:00:00.000-07:00,BA,Industrials,-0.4485,negative
+2019-03-28T00:00:00.000-07:00,ABC,Health Care,-0.5719,negative
+2019-03-29T00:00:00.000-07:00,AAPL,Information Technology,0.8957,positive
+2019-03-29T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.9219,negative
+2019-03-29T00:00:00.000-07:00,BA,Industrials,-0.9829,negative
+2019-03-30T00:00:00.000-07:00,AAPL,Information Technology,0.6808,positive
+2019-03-30T00:00:00.000-07:00,BA,Industrials,0.3612,positive
+2019-03-31T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.6908,positive
+2019-04-01T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8625,positive
+2019-04-02T00:00:00.000-07:00,AAPL,Information Technology,0.8979,positive
+2019-04-02T00:00:00.000-07:00,BA,Industrials,-0.296,negative
+2019-04-03T00:00:00.000-07:00,AAPL,Information Technology,0.875,positive
+2019-04-03T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9561,positive
+2019-04-03T00:00:00.000-07:00,BA,Industrials,-0.9786,negative
+2019-04-04T00:00:00.000-07:00,BA,Industrials,-0.9623,negative
+2019-04-04T00:00:00.000-07:00,DAL,Industrials,-0.8126,negative
+2019-04-04T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.5106,negative
+2019-04-05T00:00:00.000-07:00,AAPL,Information Technology,0.3612,positive
+2019-04-05T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.3612,positive
+2019-04-05T00:00:00.000-07:00,BA,Industrials,-0.9729,negative
+2019-04-05T00:00:00.000-07:00,EFX,Industrials,0.9849,positive
+2019-04-05T00:00:00.000-07:00,SCHW,Financials,-0.9509,negative
+2019-04-06T00:00:00.000-07:00,AAPL,Information Technology,-0.5994,negative
+2019-04-06T00:00:00.000-07:00,BA,Industrials,-0.1531,negative
+2019-04-08T00:00:00.000-07:00,BA,Industrials,0.2235,positive
+2019-04-09T00:00:00.000-07:00,AMGN,Health Care,0.7451,positive
+2019-04-09T00:00:00.000-07:00,BA,Industrials,-0.836,negative
+2019-04-10T00:00:00.000-07:00,AAPL,Information Technology,0.7251,positive
+2019-04-10T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.5994,positive
+2019-04-10T00:00:00.000-07:00,BA,Industrials,-0.8739,negative
+2019-04-11T00:00:00.000-07:00,BA,Industrials,-0.4296,negative
+2019-04-11T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.939,positive
+2019-04-11T00:00:00.000-07:00,XOM,Energy,0.8271,positive
+2019-04-12T00:00:00.000-07:00,DAL,Industrials,0.7003,positive
+2019-04-12T00:00:00.000-07:00,EFX,Industrials,0.8517,positive
+2019-04-12T00:00:00.000-07:00,BA,Industrials,0.5994,positive
+2019-04-12T00:00:00.000-07:00,SCHW,Financials,0.9702,positive
+2019-04-12T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9931,positive
+2019-04-12T00:00:00.000-07:00,AAPL,Information Technology,0.9931,positive
+2019-04-12T00:00:00.000-07:00,APC,Energy,0.9468,positive
+2019-04-13T00:00:00.000-07:00,BA,Industrials,0.8176,positive
+2019-04-13T00:00:00.000-07:00,AAPL,Information Technology,-0.7906,negative
+2019-04-13T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.4588,negative
+2019-04-16T00:00:00.000-07:00,AAPL,Information Technology,-0.1779,negative
+2019-04-16T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.743,positive
+2019-04-16T00:00:00.000-07:00,CAT,Industrials,0.8979,positive
+2019-04-17T00:00:00.000-07:00,AAPL,Information Technology,0.2023,positive
+2019-04-18T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.836,positive
+2019-04-18T00:00:00.000-07:00,MO,Consumer Staples,0.4767,positive
+2019-04-19T00:00:00.000-07:00,AAPL,Information Technology,0.898,positive
+2019-04-19T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.5719,positive
+2019-04-20T00:00:00.000-07:00,AAPL,Information Technology,0.6705,positive
+2019-04-20T00:00:00.000-07:00,BA,Industrials,-0.8779,negative
+2019-04-22T00:00:00.000-07:00,ABC,Health Care,-0.7717,negative
+2019-04-22T00:00:00.000-07:00,CAH,Health Care,-0.7717,negative
+2019-04-23T00:00:00.000-07:00,AAPL,Information Technology,0.9217,positive
+2019-04-24T00:00:00.000-07:00,BA,Industrials,0.7003,positive
+2019-04-24T00:00:00.000-07:00,APC,Energy,0.4404,positive
+2019-04-24T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.6486,positive
+2019-04-25T00:00:00.000-07:00,AAPL,Information Technology,0.1531,positive
+2019-04-25T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.6249,positive
+2019-04-25T00:00:00.000-07:00,BA,Industrials,0.4215,positive
+2019-04-27T00:00:00.000-07:00,AAPL,Information Technology,-0.6249,negative
+2019-04-27T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8438,positive
+2019-04-27T00:00:00.000-07:00,BA,Industrials,0.8438,positive
+2019-04-28T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.7269,positive
+2019-04-29T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.0165,negative
+2019-04-29T00:00:00.000-07:00,BA,Industrials,0.4939,positive
+2019-04-30T00:00:00.000-07:00,AAPL,Information Technology,0.0,neutral
+2019-04-30T00:00:00.000-07:00,APC,Energy,0.7351,positive
+2019-04-30T00:00:00.000-07:00,MO,Consumer Staples,0.4215,positive
+2019-05-01T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9413,positive
+2019-05-02T00:00:00.000-07:00,BA,Industrials,0.1531,positive
+2019-05-02T00:00:00.000-07:00,CAH,Health Care,-0.8126,negative
+2019-05-02T00:00:00.000-07:00,AAPL,Information Technology,0.9382,positive
+2019-05-02T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.0772,negative
+2019-05-03T00:00:00.000-07:00,AAPL,Information Technology,0.7783,positive
+2019-05-03T00:00:00.000-07:00,MO,Consumer Staples,0.7906,positive
+2019-05-04T00:00:00.000-07:00,BA,Industrials,0.7964,positive
+2019-05-05T00:00:00.000-07:00,APC,Energy,0.9001,positive
+2019-05-05T00:00:00.000-07:00,BA,Industrials,-0.802,negative
+2019-05-06T00:00:00.000-07:00,APC,Energy,0.2732,positive
+2019-05-07T00:00:00.000-07:00,BA,Industrials,-0.4588,negative
+2019-05-07T00:00:00.000-07:00,CAT,Industrials,-0.4588,negative
+2019-05-07T00:00:00.000-07:00,AAPL,Information Technology,-0.926,negative
+2019-05-08T00:00:00.000-07:00,ABC,Health Care,0.5155,positive
+2019-05-08T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.6908,negative
+2019-05-08T00:00:00.000-07:00,BA,Industrials,-0.5719,negative
+2019-05-09T00:00:00.000-07:00,APC,Energy,0.6888,positive
+2019-05-09T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8834,positive
+2019-05-09T00:00:00.000-07:00,ANTM,Health Care,0.886,positive
+2019-05-10T00:00:00.000-07:00,EFX,Industrials,0.9153,positive
+2019-05-10T00:00:00.000-07:00,DAL,Industrials,0.7717,positive
+2019-05-13T00:00:00.000-07:00,AAPL,Information Technology,0.743,positive
+2019-05-13T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.5719,positive
+2019-05-14T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.9187,negative
+2019-05-14T00:00:00.000-07:00,BA,Industrials,-0.9382,negative
+2019-05-15T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.3612,negative
+2019-05-15T00:00:00.000-07:00,BA,Industrials,0.8885,positive
+2019-05-16T00:00:00.000-07:00,AAPL,Information Technology,-0.5719,negative
+2019-05-16T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8225,positive
+2019-05-17T00:00:00.000-07:00,BA,Industrials,-0.9432,negative
+2019-05-17T00:00:00.000-07:00,AAPL,Information Technology,0.6486,positive
+2019-05-17T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.4019,positive
+2019-05-18T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.9764,negative
+2019-05-18T00:00:00.000-07:00,BA,Industrials,-0.9764,negative
+2019-05-20T00:00:00.000-07:00,DAL,Industrials,0.9595,positive
+2019-05-20T00:00:00.000-07:00,AAPL,Information Technology,0.2187,positive
+2019-05-20T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.3182,negative
+2019-05-21T00:00:00.000-07:00,DAL,Industrials,0.7184,positive
+2019-05-21T00:00:00.000-07:00,KO,Consumer Staples,-0.296,negative
+2019-05-21T00:00:00.000-07:00,AAPL,Information Technology,0.0,neutral
+2019-05-22T00:00:00.000-07:00,AAPL,Information Technology,0.3818,positive
+2019-05-22T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.0258,negative
+2019-05-22T00:00:00.000-07:00,BA,Industrials,-0.9118,negative
+2019-05-23T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8074,positive
+2019-05-23T00:00:00.000-07:00,BA,Industrials,0.2023,positive
+2019-05-25T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.4019,negative
+2019-05-27T00:00:00.000-07:00,MO,Consumer Staples,0.7003,positive
+2019-05-27T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.0,neutral
+2019-05-28T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9451,positive
+2019-05-29T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.9001,negative
+2019-05-30T00:00:00.000-07:00,AAPL,Information Technology,0.4588,positive
+2019-05-31T00:00:00.000-07:00,AAPL,Information Technology,-0.8957,negative
+2019-05-31T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8625,positive
+2019-06-01T00:00:00.000-07:00,AAPL,Information Technology,-0.7003,negative
+2019-06-01T00:00:00.000-07:00,BA,Industrials,-0.5574,negative
+2019-06-02T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.7184,negative
+2019-06-03T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8581,positive
+2019-06-03T00:00:00.000-07:00,AAPL,Information Technology,0.9634,positive
+2019-06-04T00:00:00.000-07:00,AAPL,Information Technology,-0.91,negative
+2019-06-04T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.8519,negative
+2019-06-05T00:00:00.000-07:00,AAPL,Information Technology,0.8885,positive
+2019-06-05T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8885,positive
+2019-06-06T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.6369,positive
+2019-06-07T00:00:00.000-07:00,AAPL,Information Technology,-0.8934,negative
+2019-06-07T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.8807,negative
+2019-06-10T00:00:00.000-07:00,AAPL,Information Technology,-0.7351,negative
+2019-06-10T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.7351,negative
+2019-06-10T00:00:00.000-07:00,BA,Industrials,-0.4939,negative
+2019-06-11T00:00:00.000-07:00,AAPL,Information Technology,-0.6124,negative
+2019-06-11T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.4019,positive
+2019-06-11T00:00:00.000-07:00,ARNC,Industrials,-0.8852,negative
+2019-06-13T00:00:00.000-07:00,AAPL,Information Technology,0.3818,positive
+2019-06-14T00:00:00.000-07:00,DISH,Consumer Discretionary,0.4939,positive
+2019-06-14T00:00:00.000-07:00,AMGN,Health Care,-0.7003,negative
+2019-06-14T00:00:00.000-07:00,AAPL,Information Technology,-0.4767,negative
+2019-06-14T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.0601,positive
+2019-06-16T00:00:00.000-07:00,BA,Industrials,-0.6369,negative
+2019-06-17T00:00:00.000-07:00,AAPL,Information Technology,-0.5267,negative
+2019-06-17T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.5267,negative
+2019-06-17T00:00:00.000-07:00,BA,Industrials,0.9042,positive
+2019-06-18T00:00:00.000-07:00,AAPL,Information Technology,-0.743,negative
+2019-06-18T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.743,negative
+2019-06-19T00:00:00.000-07:00,AAPL,Information Technology,-0.8176,negative
+2019-06-19T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.8176,negative
+2019-06-19T00:00:00.000-07:00,BA,Industrials,0.1027,positive
+2019-06-20T00:00:00.000-07:00,AAPL,Information Technology,-0.4939,negative
+2019-06-20T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.4939,negative
+2019-06-21T00:00:00.000-07:00,AAPL,Information Technology,-0.7269,negative
+2019-06-22T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.5574,positive
+2019-06-23T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.7906,positive
+2019-06-25T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.5267,negative
+2019-06-25T00:00:00.000-07:00,ABBV,Health Care,0.9274,positive
+2019-06-26T00:00:00.000-07:00,BA,Industrials,-0.4767,negative
+2019-06-27T00:00:00.000-07:00,AAPL,Information Technology,0.8176,positive
+2019-06-27T00:00:00.000-07:00,ABBV,Health Care,0.5318,positive
+2019-06-27T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9371,positive
+2019-06-28T00:00:00.000-07:00,AAPL,Information Technology,-0.1027,negative
+2019-06-28T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.2732,positive
+2019-06-29T00:00:00.000-07:00,AAPL,Information Technology,0.8375,positive
+2019-06-29T00:00:00.000-07:00,BA,Industrials,0.8834,positive
+2019-07-01T00:00:00.000-07:00,ABBV,Health Care,-0.4019,negative
+2019-07-01T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8625,positive
+2019-07-02T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.7579,positive
+2019-07-02T00:00:00.000-07:00,BA,Industrials,-0.8979,negative
+2019-07-03T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.8442,negative
+2019-07-03T00:00:00.000-07:00,BA,Industrials,0.3612,positive
+2019-07-04T00:00:00.000-07:00,KO,Consumer Staples,0.5859,positive
+2019-07-04T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.0,neutral
+2019-07-05T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8779,positive
+2019-07-06T00:00:00.000-07:00,BA,Industrials,-0.8442,negative
+2019-07-08T00:00:00.000-07:00,AMGN,Health Care,-0.4215,negative
+2019-07-08T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.7269,positive
+2019-07-09T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.0772,positive
+2019-07-10T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8625,positive
+2019-07-11T00:00:00.000-07:00,AAPL,Information Technology,0.7579,positive
+2019-07-11T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9607,positive
+2019-07-11T00:00:00.000-07:00,SCHW,Financials,0.93,positive
+2019-07-12T00:00:00.000-07:00,AAPL,Information Technology,0.9756,positive
+2019-07-12T00:00:00.000-07:00,AMD,Information Technology,0.9756,positive
+2019-07-12T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9967,positive
+2019-07-12T00:00:00.000-07:00,SCHW,Financials,0.836,positive
+2019-07-13T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.4949,positive
+2019-07-15T00:00:00.000-07:00,AAPL,Information Technology,-0.3612,negative
+2019-07-15T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.296,negative
+2019-07-15T00:00:00.000-07:00,EFX,Industrials,0.25,positive
+2019-07-16T00:00:00.000-07:00,BA,Industrials,0.4767,positive
+2019-07-16T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.5859,negative
+2019-07-16T00:00:00.000-07:00,AAPL,Information Technology,-0.5106,negative
+2019-07-17T00:00:00.000-07:00,AAPL,Information Technology,0.7506,positive
+2019-07-17T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8316,positive
+2019-07-17T00:00:00.000-07:00,BA,Industrials,-0.7184,negative
+2019-07-18T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.4939,negative
+2019-07-18T00:00:00.000-07:00,BA,Industrials,0.0258,positive
+2019-07-19T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.4215,positive
+2019-07-19T00:00:00.000-07:00,BA,Industrials,-0.4939,negative
+2019-07-20T00:00:00.000-07:00,EFX,Industrials,0.93,positive
+2019-07-22T00:00:00.000-07:00,DAL,Industrials,0.9217,positive
+2019-07-22T00:00:00.000-07:00,EFX,Industrials,0.9495,positive
+2019-07-23T00:00:00.000-07:00,AAPL,Information Technology,0.9781,positive
+2019-07-23T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9538,positive
+2019-07-23T00:00:00.000-07:00,EFX,Industrials,-0.3818,negative
+2019-07-24T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9213,positive
+2019-07-24T00:00:00.000-07:00,BA,Industrials,-0.2023,negative
+2019-07-25T00:00:00.000-07:00,BA,Industrials,0.1531,positive
+2019-07-25T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.1779,negative
+2019-07-25T00:00:00.000-07:00,AAPL,Information Technology,0.5267,positive
+2019-07-26T00:00:00.000-07:00,AAPL,Information Technology,0.7906,positive
+2019-07-26T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8439,positive
+2019-07-26T00:00:00.000-07:00,DISH,Consumer Discretionary,0.0,neutral
+2019-07-26T00:00:00.000-07:00,EFX,Industrials,0.9789,positive
+2019-07-28T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.6808,positive
+2019-07-28T00:00:00.000-07:00,BA,Industrials,-0.3964,negative
+2019-07-29T00:00:00.000-07:00,EFX,Industrials,0.8225,positive
+2019-07-29T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.91,positive
+2019-07-30T00:00:00.000-07:00,AAPL,Information Technology,0.296,positive
+2019-07-30T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.4215,negative
+2019-07-30T00:00:00.000-07:00,BA,Industrials,-0.919,negative
+2019-07-31T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.0,neutral
+2019-07-31T00:00:00.000-07:00,BA,Industrials,-0.2023,negative
+2019-07-31T00:00:00.000-07:00,MO,Consumer Staples,0.8834,positive
+2019-08-01T00:00:00.000-07:00,EFX,Industrials,0.9136,positive
+2019-08-01T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9895,positive
+2019-08-02T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.6249,positive
+2019-08-02T00:00:00.000-07:00,AAPL,Information Technology,0.3182,positive
+2019-08-03T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.1027,positive
+2019-08-05T00:00:00.000-07:00,AAPL,Information Technology,-0.743,negative
+2019-08-06T00:00:00.000-07:00,ANTM,Health Care,0.5267,positive
+2019-08-07T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.5994,positive
+2019-08-07T00:00:00.000-07:00,BA,Industrials,-0.6597,negative
+2019-08-08T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9764,positive
+2019-08-09T00:00:00.000-07:00,AAPL,Information Technology,0.8442,positive
+2019-08-09T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.7579,positive
+2019-08-09T00:00:00.000-07:00,KO,Consumer Staples,-0.6705,negative
+2019-08-11T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8176,positive
+2019-08-12T00:00:00.000-07:00,AAPL,Information Technology,0.4588,positive
+2019-08-12T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.4588,positive
+2019-08-15T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9984,positive
+2019-08-18T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.8099,negative
+2019-08-19T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.8834,negative
+2019-08-20T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8271,positive
+2019-08-20T00:00:00.000-07:00,AAPL,Information Technology,0.8271,positive
+2019-08-20T00:00:00.000-07:00,ALL,Financials,0.9638,positive
+2019-08-21T00:00:00.000-07:00,AAPL,Information Technology,0.7579,positive
+2019-08-21T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.7579,positive
+2019-08-22T00:00:00.000-07:00,AAPL,Information Technology,0.0258,positive
+2019-08-22T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.93,positive
+2019-08-23T00:00:00.000-07:00,AAPL,Information Technology,0.1948,positive
+2019-08-23T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.0,neutral
+2019-08-23T00:00:00.000-07:00,BA,Industrials,-0.8402,negative
+2019-08-26T00:00:00.000-07:00,AAPL,Information Technology,-0.6249,negative
+2019-08-27T00:00:00.000-07:00,MO,Consumer Staples,0.2023,positive
+2019-08-28T00:00:00.000-07:00,AAPL,Information Technology,0.701,positive
+2019-08-28T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.4704,positive
+2019-08-28T00:00:00.000-07:00,MO,Consumer Staples,0.5719,positive
+2019-08-29T00:00:00.000-07:00,AAPL,Information Technology,0.9001,positive
+2019-08-29T00:00:00.000-07:00,XOM,Energy,0.9371,positive
+2019-08-30T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.5574,positive
+2019-09-01T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8625,positive
+2019-09-02T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.936,negative
+2019-09-04T00:00:00.000-07:00,KO,Consumer Staples,0.521,positive
+2019-09-05T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.128,negative
+2019-09-05T00:00:00.000-07:00,XOM,Energy,-0.6705,negative
+2019-09-06T00:00:00.000-07:00,AAPL,Information Technology,0.578,positive
+2019-09-06T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9864,positive
+2019-09-08T00:00:00.000-07:00,AAPL,Information Technology,-0.296,negative
+2019-09-08T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.7506,positive
+2019-09-09T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.8316,negative
+2019-09-09T00:00:00.000-07:00,AAPL,Information Technology,0.8885,positive
+2019-09-10T00:00:00.000-07:00,AAPL,Information Technology,0.9394,positive
+2019-09-10T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9805,positive
+2019-09-11T00:00:00.000-07:00,AAPL,Information Technology,0.2732,positive
+2019-09-11T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.25,negative
+2019-09-12T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.3818,negative
+2019-09-13T00:00:00.000-07:00,MO,Consumer Staples,-0.9485,negative
+2019-09-13T00:00:00.000-07:00,DAL,Industrials,0.5859,positive
+2019-09-13T00:00:00.000-07:00,AAPL,Information Technology,0.4005,positive
+2019-09-13T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.0772,positive
+2019-09-14T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.9231,negative
+2019-09-15T00:00:00.000-07:00,AAPL,Information Technology,-0.8658,negative
+2019-09-15T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.9231,negative
+2019-09-15T00:00:00.000-07:00,BA,Industrials,0.891,positive
+2019-09-16T00:00:00.000-07:00,AAPL,Information Technology,0.2732,positive
+2019-09-16T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.2732,positive
+2019-09-16T00:00:00.000-07:00,EFX,Industrials,0.291,positive
+2019-09-16T00:00:00.000-07:00,KO,Consumer Staples,-0.8519,negative
+2019-09-17T00:00:00.000-07:00,AAPL,Information Technology,0.6908,positive
+2019-09-17T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.3182,positive
+2019-09-17T00:00:00.000-07:00,DAL,Industrials,-0.296,negative
+2019-09-18T00:00:00.000-07:00,BA,Industrials,-0.099,negative
+2019-09-19T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.4767,positive
+2019-09-20T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.25,negative
+2019-09-20T00:00:00.000-07:00,AAPL,Information Technology,0.0516,positive
+2019-09-23T00:00:00.000-07:00,AAPL,Information Technology,0.8834,positive
+2019-09-23T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9648,positive
+2019-09-23T00:00:00.000-07:00,XOM,Energy,-0.0772,negative
+2019-09-24T00:00:00.000-07:00,AAPL,Information Technology,0.765,positive
+2019-09-24T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.4215,negative
+2019-09-25T00:00:00.000-07:00,AAPL,Information Technology,0.2263,positive
+2019-09-25T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.0,neutral
+2019-09-25T00:00:00.000-07:00,MO,Consumer Staples,-0.3213,negative
+2019-09-26T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.967,positive
+2019-09-26T00:00:00.000-07:00,BA,Industrials,-0.3182,negative
+2019-09-27T00:00:00.000-07:00,AAPL,Information Technology,0.0516,positive
+2019-09-27T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.7783,positive
+2019-09-27T00:00:00.000-07:00,BA,Industrials,0.5994,positive
+2019-09-29T00:00:00.000-07:00,MO,Consumer Staples,0.8126,positive
+2019-10-01T00:00:00.000-07:00,SCHW,Financials,-0.7443,negative
+2019-10-02T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8625,positive
+2019-10-02T00:00:00.000-07:00,AAPL,Information Technology,-0.9217,negative
+2019-10-02T00:00:00.000-07:00,BA,Industrials,-0.6486,negative
+2019-10-04T00:00:00.000-07:00,AET,Health Care,0.8271,positive
+2019-10-06T00:00:00.000-07:00,BA,Industrials,0.6808,positive
+2019-10-08T00:00:00.000-07:00,AAPL,Information Technology,0.836,positive
+2019-10-09T00:00:00.000-07:00,AAPL,Information Technology,0.6908,positive
+2019-10-09T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8791,positive
+2019-10-10T00:00:00.000-07:00,AAPL,Information Technology,-0.8316,negative
+2019-10-11T00:00:00.000-07:00,BA,Industrials,-0.34,negative
+2019-10-11T00:00:00.000-07:00,SCHW,Financials,0.0,neutral
+2019-10-13T00:00:00.000-07:00,BA,Industrials,0.25,positive
+2019-10-15T00:00:00.000-07:00,AAPL,Information Technology,0.93,positive
+2019-10-15T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.296,negative
+2019-10-16T00:00:00.000-07:00,AAPL,Information Technology,0.25,positive
+2019-10-16T00:00:00.000-07:00,ABC,Health Care,0.8555,positive
+2019-10-16T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.8316,negative
+2019-10-16T00:00:00.000-07:00,CAH,Health Care,0.8555,positive
+2019-10-16T00:00:00.000-07:00,XOM,Energy,0.0408,positive
+2019-10-17T00:00:00.000-07:00,DAL,Industrials,0.5994,positive
+2019-10-17T00:00:00.000-07:00,BA,Industrials,-0.8555,negative
+2019-10-18T00:00:00.000-07:00,AAPL,Information Technology,-0.8591,negative
+2019-10-18T00:00:00.000-07:00,ABC,Health Care,-0.2732,negative
+2019-10-18T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9571,positive
+2019-10-18T00:00:00.000-07:00,BA,Industrials,-0.9062,negative
+2019-10-18T00:00:00.000-07:00,CAH,Health Care,-0.2732,negative
+2019-10-20T00:00:00.000-07:00,AAPL,Information Technology,-0.128,negative
+2019-10-21T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.765,positive
+2019-10-21T00:00:00.000-07:00,ABC,Health Care,-0.9423,negative
+2019-10-21T00:00:00.000-07:00,BA,Industrials,-0.9922,negative
+2019-10-21T00:00:00.000-07:00,CAH,Health Care,-0.9423,negative
+2019-10-21T00:00:00.000-07:00,XOM,Energy,0.1027,positive
+2019-10-22T00:00:00.000-07:00,KO,Consumer Staples,-0.4588,negative
+2019-10-22T00:00:00.000-07:00,BA,Industrials,-0.7003,negative
+2019-10-22T00:00:00.000-07:00,XOM,Energy,-0.4588,negative
+2019-10-22T00:00:00.000-07:00,AAPL,Information Technology,0.9169,positive
+2019-10-22T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.7964,positive
+2019-10-23T00:00:00.000-07:00,BA,Industrials,-0.9702,negative
+2019-10-23T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.3182,positive
+2019-10-24T00:00:00.000-07:00,AAPL,Information Technology,0.7202,positive
+2019-10-24T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8591,positive
+2019-10-24T00:00:00.000-07:00,XOM,Energy,0.5423,positive
+2019-10-25T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.4767,negative
+2019-10-25T00:00:00.000-07:00,BA,Industrials,-0.5756,negative
+2019-10-25T00:00:00.000-07:00,SCHW,Financials,0.959,positive
+2019-10-26T00:00:00.000-07:00,AAPL,Information Technology,0.0,neutral
+2019-10-26T00:00:00.000-07:00,BA,Industrials,0.8979,positive
+2019-10-27T00:00:00.000-07:00,BA,Industrials,0.7906,positive
+2019-10-27T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.25,positive
+2019-10-28T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.4019,positive
+2019-10-28T00:00:00.000-07:00,BA,Industrials,-0.8689,negative
+2019-10-28T00:00:00.000-07:00,MMM,Industrials,-0.6894,negative
+2019-10-29T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9382,positive
+2019-10-29T00:00:00.000-07:00,BA,Industrials,-0.9805,negative
+2019-10-30T00:00:00.000-07:00,XOM,Energy,-0.9231,negative
+2019-10-30T00:00:00.000-07:00,BA,Industrials,-0.9633,negative
+2019-10-30T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.9571,negative
+2019-10-30T00:00:00.000-07:00,AAPL,Information Technology,0.9657,positive
+2019-10-31T00:00:00.000-07:00,AAPL,Information Technology,0.5574,positive
+2019-10-31T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9648,positive
+2019-10-31T00:00:00.000-07:00,BA,Industrials,0.0,neutral
+2019-10-31T00:00:00.000-07:00,MO,Consumer Staples,-0.2263,negative
+2019-11-01T00:00:00.000-07:00,AAPL,Information Technology,0.7184,positive
+2019-11-01T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8357,positive
+2019-11-02T00:00:00.000-07:00,AAPL,Information Technology,0.6597,positive
+2019-11-02T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8126,positive
+2019-11-04T00:00:00.000-08:00,AAPL,Information Technology,0.7906,positive
+2019-11-04T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.0516,positive
+2019-11-04T00:00:00.000-08:00,BA,Industrials,0.9666,positive
+2019-11-06T00:00:00.000-08:00,AAPL,Information Technology,0.7842,positive
+2019-11-06T00:00:00.000-08:00,BA,Industrials,0.743,positive
+2019-11-07T00:00:00.000-08:00,BA,Industrials,0.7037,positive
+2019-11-07T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.7269,positive
+2019-11-07T00:00:00.000-08:00,AAPL,Information Technology,0.7269,positive
+2019-11-08T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.0516,negative
+2019-11-10T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.9022,negative
+2019-11-10T00:00:00.000-08:00,BA,Industrials,-0.25,negative
+2019-11-11T00:00:00.000-08:00,AAPL,Information Technology,0.5719,positive
+2019-11-11T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.926,positive
+2019-11-11T00:00:00.000-08:00,BA,Industrials,0.9922,positive
+2019-11-13T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.8934,negative
+2019-11-13T00:00:00.000-08:00,AAPL,Information Technology,-0.9698,negative
+2019-11-14T00:00:00.000-08:00,AAPL,Information Technology,0.8591,positive
+2019-11-14T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.891,positive
+2019-11-15T00:00:00.000-08:00,AAPL,Information Technology,0.9042,positive
+2019-11-15T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.5574,positive
+2019-11-15T00:00:00.000-08:00,EFX,Industrials,0.9674,positive
+2019-11-18T00:00:00.000-08:00,XOM,Energy,0.6124,positive
+2019-11-18T00:00:00.000-08:00,AAPL,Information Technology,0.1531,positive
+2019-11-19T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.926,positive
+2019-11-19T00:00:00.000-08:00,AAPL,Information Technology,0.9821,positive
+2019-11-21T00:00:00.000-08:00,AAPL,Information Technology,0.875,positive
+2019-11-22T00:00:00.000-08:00,AAPL,Information Technology,0.2263,positive
+2019-11-22T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.875,positive
+2019-11-23T00:00:00.000-08:00,MO,Consumer Staples,-0.9081,negative
+2019-11-25T00:00:00.000-08:00,AAPL,Information Technology,0.5859,positive
+2019-11-25T00:00:00.000-08:00,SCHW,Financials,0.836,positive
+2019-11-26T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.1531,negative
+2019-11-26T00:00:00.000-08:00,EFX,Industrials,0.9633,positive
+2019-11-27T00:00:00.000-08:00,ABC,Health Care,-0.1779,negative
+2019-11-27T00:00:00.000-08:00,ABT,Health Care,0.5574,positive
+2019-11-27T00:00:00.000-08:00,BA,Industrials,0.0,neutral
+2019-11-28T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.8565,negative
+2019-11-29T00:00:00.000-08:00,SCHW,Financials,0.6908,positive
+2019-11-30T00:00:00.000-08:00,AAPL,Information Technology,0.9815,positive
+2019-12-01T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.6369,positive
+2019-12-02T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9496,positive
+2019-12-04T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.4215,positive
+2019-12-05T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.3818,positive
+2019-12-06T00:00:00.000-08:00,AAPL,Information Technology,0.872,positive
+2019-12-07T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.93,positive
+2019-12-08T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.7044,negative
+2019-12-09T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.9783,negative
+2019-12-09T00:00:00.000-08:00,BA,Industrials,-0.4019,negative
+2019-12-10T00:00:00.000-08:00,AAPL,Information Technology,-0.8176,negative
+2019-12-10T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.8176,negative
+2019-12-10T00:00:00.000-08:00,XOM,Energy,-0.8979,negative
+2019-12-11T00:00:00.000-08:00,BA,Industrials,-0.9584,negative
+2019-12-12T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.3847,positive
+2019-12-12T00:00:00.000-08:00,XOM,Energy,0.3847,positive
+2019-12-15T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.9042,negative
+2019-12-16T00:00:00.000-08:00,XOM,Energy,-0.144,negative
+2019-12-16T00:00:00.000-08:00,BA,Industrials,-0.7351,negative
+2019-12-16T00:00:00.000-08:00,AAPL,Information Technology,-0.3182,negative
+2019-12-16T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.5106,negative
+2019-12-17T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.9776,negative
+2019-12-18T00:00:00.000-08:00,AAPL,Information Technology,0.1764,positive
+2019-12-18T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.8954,positive
+2019-12-19T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.4215,negative
+2019-12-19T00:00:00.000-08:00,BA,Industrials,0.0258,positive
+2019-12-20T00:00:00.000-08:00,BA,Industrials,-0.8591,negative
+2019-12-20T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9666,positive
+2019-12-22T00:00:00.000-08:00,AAPL,Information Technology,0.9201,positive
+2019-12-22T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.3818,positive
+2019-12-23T00:00:00.000-08:00,BA,Industrials,-0.9906,negative
+2019-12-24T00:00:00.000-08:00,AAPL,Information Technology,-0.25,negative
+2019-12-24T00:00:00.000-08:00,BA,Industrials,0.9722,positive
+2019-12-26T00:00:00.000-08:00,AAPL,Information Technology,0.9377,positive
+2019-12-27T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.7906,positive
+2019-12-29T00:00:00.000-08:00,BA,Industrials,0.987,positive
+2019-12-30T00:00:00.000-08:00,KO,Consumer Staples,0.9477,positive
+2019-12-30T00:00:00.000-08:00,COP,Energy,0.9477,positive
+2019-12-30T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.3612,positive
+2019-12-30T00:00:00.000-08:00,AAPL,Information Technology,0.0,neutral
+2019-12-31T00:00:00.000-08:00,DAL,Industrials,0.7003,positive
+2020-01-01T00:00:00.000-08:00,AAPL,Information Technology,0.9325,positive
+2020-01-01T00:00:00.000-08:00,BA,Industrials,0.296,positive
+2020-01-03T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9922,positive
+2020-01-05T00:00:00.000-08:00,AAPL,Information Technology,0.3182,positive
+2020-01-05T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.3182,positive
+2020-01-05T00:00:00.000-08:00,BA,Industrials,0.4215,positive
+2020-01-07T00:00:00.000-08:00,AAPL,Information Technology,0.25,positive
+2020-01-07T00:00:00.000-08:00,BA,Industrials,0.743,positive
+2020-01-08T00:00:00.000-08:00,BA,Industrials,-0.9975,negative
+2020-01-10T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.6124,positive
+2020-01-10T00:00:00.000-08:00,BA,Industrials,-0.9934,negative
+2020-01-11T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.4588,positive
+2020-01-11T00:00:00.000-08:00,BA,Industrials,-0.9947,negative
+2020-01-11T00:00:00.000-08:00,AAPL,Information Technology,0.4588,positive
+2020-01-13T00:00:00.000-08:00,AAPL,Information Technology,-0.8225,negative
+2020-01-14T00:00:00.000-08:00,AAPL,Information Technology,0.34,positive
+2020-01-14T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.8295,negative
+2020-01-14T00:00:00.000-08:00,DAL,Industrials,-0.3818,negative
+2020-01-14T00:00:00.000-08:00,EFX,Industrials,0.5106,positive
+2020-01-17T00:00:00.000-08:00,SCHW,Financials,0.884,positive
+2020-01-17T00:00:00.000-08:00,AAPL,Information Technology,0.8822,positive
+2020-01-17T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.8548,negative
+2020-01-19T00:00:00.000-08:00,AAPL,Information Technology,0.0,neutral
+2020-01-19T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.0,neutral
+2020-01-20T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.6124,positive
+2020-01-21T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.6597,positive
+2020-01-21T00:00:00.000-08:00,BA,Industrials,0.9081,positive
+2020-01-22T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.926,negative
+2020-01-22T00:00:00.000-08:00,BA,Industrials,0.0,neutral
+2020-01-23T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9403,positive
+2020-01-23T00:00:00.000-08:00,EFX,Industrials,-0.2418,negative
+2020-01-24T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.9618,negative
+2020-01-25T00:00:00.000-08:00,EFX,Industrials,0.6597,positive
+2020-01-26T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.9438,negative
+2020-01-28T00:00:00.000-08:00,AAPL,Information Technology,0.9834,positive
+2020-01-28T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.0869,positive
+2020-01-28T00:00:00.000-08:00,DAL,Industrials,0.5106,positive
+2020-01-29T00:00:00.000-08:00,AAPL,Information Technology,-0.6249,negative
+2020-01-29T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.5574,positive
+2020-01-29T00:00:00.000-08:00,BA,Industrials,0.0772,positive
+2020-01-30T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9686,positive
+2020-01-30T00:00:00.000-08:00,BA,Industrials,0.6249,positive
+2020-01-30T00:00:00.000-08:00,MMM,Industrials,0.9246,positive
+2020-01-30T00:00:00.000-08:00,MO,Consumer Staples,-0.3182,negative
+2020-01-31T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.6249,positive
+2020-01-31T00:00:00.000-08:00,BA,Industrials,0.6705,positive
+2020-01-31T00:00:00.000-08:00,DAL,Industrials,0.836,positive
+2020-02-02T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.8225,positive
+2020-02-03T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.93,positive
+2020-02-03T00:00:00.000-08:00,AAPL,Information Technology,0.5719,positive
+2020-02-04T00:00:00.000-08:00,AAPL,Information Technology,0.8743,positive
+2020-02-04T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.8743,positive
+2020-02-04T00:00:00.000-08:00,DAL,Industrials,-0.3818,negative
+2020-02-06T00:00:00.000-08:00,BA,Industrials,-0.4939,negative
+2020-02-07T00:00:00.000-08:00,AAPL,Information Technology,-0.872,negative
+2020-02-07T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.9136,negative
+2020-02-07T00:00:00.000-08:00,BA,Industrials,-0.9217,negative
+2020-02-10T00:00:00.000-08:00,AAPL,Information Technology,0.0516,positive
+2020-02-10T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.6908,positive
+2020-02-10T00:00:00.000-08:00,BA,Industrials,0.7184,positive
+2020-02-10T00:00:00.000-08:00,EFX,Industrials,-0.2732,negative
+2020-02-11T00:00:00.000-08:00,AAPL,Information Technology,0.7003,positive
+2020-02-11T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.8225,positive
+2020-02-11T00:00:00.000-08:00,EFX,Industrials,0.7579,positive
+2020-02-12T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.984,positive
+2020-02-13T00:00:00.000-08:00,EFX,Industrials,-0.9524,negative
+2020-02-13T00:00:00.000-08:00,BA,Industrials,0.8529,positive
+2020-02-13T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.1531,positive
+2020-02-14T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9638,positive
+2020-02-14T00:00:00.000-08:00,BA,Industrials,0.743,positive
+2020-02-14T00:00:00.000-08:00,DAL,Industrials,0.8214,positive
+2020-02-16T00:00:00.000-08:00,AAPL,Information Technology,0.25,positive
+2020-02-17T00:00:00.000-08:00,AAPL,Information Technology,-0.9468,negative
+2020-02-17T00:00:00.000-08:00,ABC,Health Care,-0.8264,negative
+2020-02-17T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.0772,positive
+2020-02-17T00:00:00.000-08:00,CAH,Health Care,-0.8264,negative
+2020-02-17T00:00:00.000-08:00,CAT,Industrials,-0.8176,negative
+2020-02-18T00:00:00.000-08:00,CAT,Industrials,0.2732,positive
+2020-02-19T00:00:00.000-08:00,AAPL,Information Technology,-0.0516,negative
+2020-02-19T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9806,positive
+2020-02-19T00:00:00.000-08:00,DAL,Industrials,0.5918,positive
+2020-02-19T00:00:00.000-08:00,MO,Consumer Staples,-0.802,negative
+2020-02-20T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.5106,negative
+2020-02-20T00:00:00.000-08:00,BA,Industrials,-0.9595,negative
+2020-02-20T00:00:00.000-08:00,AAPL,Information Technology,0.7964,positive
+2020-02-21T00:00:00.000-08:00,AAPL,Information Technology,0.0,neutral
+2020-02-21T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.0,neutral
+2020-02-21T00:00:00.000-08:00,BA,Industrials,0.8979,positive
+2020-02-22T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.4215,negative
+2020-02-26T00:00:00.000-08:00,NI,Utilities,0.0516,positive
+2020-02-27T00:00:00.000-08:00,DAL,Industrials,0.969,positive
+2020-02-27T00:00:00.000-08:00,AAPL,Information Technology,0.0,neutral
+2020-02-27T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.0,neutral
+2020-02-28T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.2023,positive
+2020-03-02T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.875,negative
+2020-03-03T00:00:00.000-08:00,AMZN,Consumer Discretionary,-0.3818,negative
+2020-03-04T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9287,positive
+2020-03-04T00:00:00.000-08:00,KO,Consumer Staples,0.9468,positive
+2020-03-05T00:00:00.000-08:00,BA,Industrials,-0.9442,negative
+2020-03-05T00:00:00.000-08:00,AMZN,Consumer Discretionary,0.9806,positive
+2020-03-05T00:00:00.000-08:00,XOM,Energy,0.7184,positive
+2020-03-07T00:00:00.000-08:00,BA,Industrials,-0.7096,negative
+2020-03-09T00:00:00.000-07:00,BA,Industrials,-0.9274,negative
+2020-03-10T00:00:00.000-07:00,DAL,Industrials,0.8993,positive
+2020-03-11T00:00:00.000-07:00,DAL,Industrials,-0.5267,negative
+2020-03-12T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9741,positive
+2020-03-12T00:00:00.000-07:00,BA,Industrials,-0.8979,negative
+2020-03-12T00:00:00.000-07:00,DAL,Industrials,-0.6369,negative
+2020-03-13T00:00:00.000-07:00,ABC,Health Care,-0.8658,negative
+2020-03-13T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.9607,negative
+2020-03-13T00:00:00.000-07:00,CAH,Health Care,-0.8658,negative
+2020-03-13T00:00:00.000-07:00,MMM,Industrials,-0.5719,negative
+2020-03-14T00:00:00.000-07:00,AAPL,Information Technology,-0.3818,negative
+2020-03-14T00:00:00.000-07:00,XOM,Energy,0.8834,positive
+2020-03-15T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.5719,positive
+2020-03-16T00:00:00.000-07:00,AAPL,Information Technology,0.1027,positive
+2020-03-16T00:00:00.000-07:00,BA,Industrials,0.4939,positive
+2020-03-17T00:00:00.000-07:00,BA,Industrials,0.0227,positive
+2020-03-17T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.8658,negative
+2020-03-18T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.2023,negative
+2020-03-18T00:00:00.000-07:00,XOM,Energy,-0.6808,negative
+2020-03-19T00:00:00.000-07:00,BA,Industrials,0.7506,positive
+2020-03-20T00:00:00.000-07:00,XOM,Energy,0.296,positive
+2020-03-22T00:00:00.000-07:00,AAPL,Information Technology,-0.7906,negative
+2020-03-22T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.7003,negative
+2020-03-22T00:00:00.000-07:00,MMM,Industrials,-0.7506,negative
+2020-03-23T00:00:00.000-07:00,AAPL,Information Technology,-0.8402,negative
+2020-03-23T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.5994,negative
+2020-03-23T00:00:00.000-07:00,MMM,Industrials,0.6369,positive
+2020-03-23T00:00:00.000-07:00,XOM,Energy,-0.891,negative
+2020-03-24T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.8884,positive
+2020-03-24T00:00:00.000-07:00,DAL,Industrials,0.8225,positive
+2020-03-25T00:00:00.000-07:00,DAL,Industrials,0.8744,positive
+2020-03-25T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.7906,positive
+2020-03-26T00:00:00.000-07:00,BA,Industrials,0.9081,positive
+2020-03-27T00:00:00.000-07:00,AMZN,Consumer Discretionary,-0.4779,negative
+2020-03-28T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.9803,positive
+2020-03-30T00:00:00.000-07:00,MO,Consumer Staples,0.4019,positive
+2020-03-30T00:00:00.000-07:00,ALK,Industrials,-0.7964,negative
+2020-03-31T00:00:00.000-07:00,AMZN,Consumer Discretionary,0.4588,positive

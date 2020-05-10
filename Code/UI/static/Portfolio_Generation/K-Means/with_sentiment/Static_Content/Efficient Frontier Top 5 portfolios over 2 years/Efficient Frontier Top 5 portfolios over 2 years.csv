@@ -1,0 +1,6 @@
+,Sharpe Ratio,Portfolio Annualised Return,Portfolio Annualised_Volatility,Stock Portfolio,Stocks Weight Allocation,Portfolio Tag
+24,2.382525849,1.18,0.49,"['EQIX', 'CMG', 'BKNG', 'SHW', 'BIIB', 'BA', 'AMD', 'NEM']",[[39.88  0.    0.88  0.   26.77 20.3  12.17  0.  ]],Very Good
+5,2.382525845,1.18,0.49,"['EQIX', 'CMG', 'BKNG', 'BIIB', 'BA', 'AMD', 'NEM']",[[39.88  0.    0.88  0.   26.77 20.3  12.17]],Very Good
+3,2.382376574,1.18,0.49,"['EQIX', 'AMD', 'CMG', 'NEM']",[[40.12 26.91 20.77 12.21]],Very Good
+21,2.35370021,1.28,0.54,"['CMG', 'BKNG', 'BIIB', 'BA', 'AMD', 'NEM']",[[47.31  0.    4.4   0.   32.23 16.06]],Very Good
+22,2.353700205,1.28,0.54,"['CMG', 'BKNG', 'SHW', 'BIIB', 'BA', 'AMD', 'NEM']",[[47.33  0.    4.4   0.   32.23 16.05  0.  ]],Very Good

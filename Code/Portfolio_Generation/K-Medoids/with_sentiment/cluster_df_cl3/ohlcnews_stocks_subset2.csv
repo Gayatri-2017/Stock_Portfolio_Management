@@ -1,0 +1,25 @@
+,symbol,start_date,sector
+20,CBS,2018-04-01,Consumer Discretionary
+19,AMD,2018-04-01,Information Technology
+18,AON,2018-04-01,Financials
+12,AMD,2018-07-01,Information Technology
+13,DHI,2018-07-01,Consumer Discretionary
+14,CXO,2018-07-01,Energy
+3,NEM,2018-10-01,Materials
+4,CMCSA,2018-10-01,Consumer Discretionary
+5,BAC,2018-10-01,Financials
+0,COTY,2019-01-01,Consumer Staples
+1,KMI,2019-01-01,Energy
+2,HP,2019-01-01,Energy
+17,BMY,2019-04-01,Health Care
+16,APC,2019-04-01,Energy
+15,BKNG,2019-04-01,Consumer Discretionary
+11,EMR,2019-07-01,Industrials
+10,MLM,2019-07-01,Materials
+9,DHI,2019-07-01,Consumer Discretionary
+8,AOS,2019-10-01,Industrials
+7,HP,2019-10-01,Energy
+6,AMD,2019-10-01,Information Technology
+21,EQIX,2020-01-01,Real Estate
+22,CTXS,2020-01-01,Information Technology
+23,AOS,2020-01-01,Industrials

@@ -1,0 +1,9 @@
+,Quarter Start Date_x,Sharpe Ratio,Portfolio Annualised Return,Portfolio Annualised_Volatility,Stock Portfolio,Stocks Weight Allocation,Portfolio Tag
+0,01/04/2018,1.787833623,0.23,0.12,"['AMZN', 'BLK']",[[100.   0.]],Good
+1,01/07/2018,1.631756703,0.15,0.08,"['AZO', 'CMG']",[[91.62  8.38]],Good
+2,01/10/2018,0.572092172,0.1,0.15,"['AZO', 'GOOG']",[[100.   0.]],Bad
+3,01/01/2019,3.73728004,0.33,0.09,"['BKNG', 'CMG', 'AZO']",[[45.28  6.71 48.01]],Excellent
+4,01/04/2019,1.455376644,0.28,0.18,"['BIIB', 'BKNG', 'BA', 'APC']",[[48.41  0.    0.   51.59]],Good
+5,01/07/2019,1.209055234,0.15,0.11,"['EQIX', 'BLK']",[[  0. 100.]],Good
+6,01/10/2019,1.674264547,0.14,0.08,"['EQIX', 'BIIB', 'GOOGL']",[[15.77  3.96 80.26]],Good
+7,01/01/2020,0.976112961,0.28,0.28,"['AMZN', 'CTXS']",[[  0. 100.]],Bad

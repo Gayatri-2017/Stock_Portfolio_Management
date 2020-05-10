@@ -1,0 +1,21 @@
+,symbol,start_date,sector
+0,AMD,2018-04-01,Information Technology
+1,ADSK,2018-04-01,Information Technology
+2,AMZN,2018-04-01,Consumer Discretionary
+3,BHF,2018-07-01,Financials
+4,AMD,2018-07-01,Information Technology
+5,AMZN,2018-07-01,Consumer Discretionary
+6,NEM,2018-10-01,Materials
+8,COTY,2019-01-01,Consumer Staples
+9,AZO,2019-01-01,Consumer Discretionary
+7,BHF,2019-01-01,Financials
+10,APC,2019-04-01,Energy
+11,AZO,2019-04-01,Consumer Discretionary
+12,CSX,2019-04-01,Industrials
+13,DHI,2019-07-01,Consumer Discretionary
+14,CMG,2019-07-01,Consumer Discretionary
+15,DVN,2019-10-01,Energy
+16,AMD,2019-10-01,Information Technology
+17,GOOGL,2019-10-01,Information Technology
+18,AMZN,2020-01-01,Consumer Discretionary
+19,CTXS,2020-01-01,Information Technology

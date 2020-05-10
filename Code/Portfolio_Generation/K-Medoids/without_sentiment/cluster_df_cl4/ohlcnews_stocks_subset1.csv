@@ -1,0 +1,33 @@
+,symbol,start_date,sector
+26,ESS,2018-04-01,Real Estate
+24,STZ,2018-04-01,Consumer Staples
+25,BKNG,2018-04-01,Consumer Discretionary
+27,CMG,2018-04-01,Consumer Discretionary
+17,BKNG,2018-07-01,Consumer Discretionary
+16,GOOGL,2018-07-01,Information Technology
+18,AMZN,2018-07-01,Consumer Discretionary
+19,CMG,2018-07-01,Consumer Discretionary
+6,AAPL,2018-10-01,Information Technology
+5,AZO,2018-10-01,Consumer Discretionary
+4,ALGN,2018-10-01,Health Care
+7,BKNG,2018-10-01,Consumer Discretionary
+3,BIIB,2019-01-01,Health Care
+2,BKNG,2019-01-01,Consumer Discretionary
+1,AZO,2019-01-01,Consumer Discretionary
+0,COST,2019-01-01,Consumer Staples
+23,CI,2019-04-01,Health Care
+22,GOOGL,2019-04-01,Information Technology
+21,AMZN,2019-04-01,Consumer Discretionary
+20,CMG,2019-04-01,Consumer Discretionary
+15,BDX,2019-07-01,Health Care
+14,BLK,2019-07-01,Financials
+13,SHW,2019-07-01,Materials
+12,BKNG,2019-07-01,Consumer Discretionary
+11,BKNG,2019-10-01,Consumer Discretionary
+10,BA,2019-10-01,Industrials
+9,AON,2019-10-01,Financials
+8,BLK,2019-10-01,Financials
+28,AMZN,2020-01-01,Consumer Discretionary
+29,EQIX,2020-01-01,Real Estate
+30,BA,2020-01-01,Industrials
+31,SHW,2020-01-01,Materials

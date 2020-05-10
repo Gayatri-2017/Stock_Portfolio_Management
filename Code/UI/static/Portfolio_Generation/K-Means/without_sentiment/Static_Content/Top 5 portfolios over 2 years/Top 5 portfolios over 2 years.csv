@@ -1,0 +1,6 @@
+,Sharpe Ratio,Portfolio Annualised Return,Portfolio Annualised_Volatility,Stock Portfolio,Stocks Weight Allocation,Portfolio Tag
+15,2.201053366,1.96,0.88,"['AMD', 'BKNG']",[[100.   0.]],Very Good
+5,1.692393377,0.65,0.38,"['AMZN', 'CMG', 'BKNG', 'SHW', 'BLK', 'BDX', 'NEM']",[[23.02  0.    0.    0.   52.43 24.56  0.  ]],Good
+3,1.692393181,0.65,0.38,"['AMZN', 'CMG', 'BDX', 'BHF', 'NEM']",[[22.98  0.    0.   52.44 24.58]],Good
+10,1.671637536,0.73,0.43,"['CMG', 'APC']",[[31.82 68.18]],Good
+7,1.638697998,0.69,0.42,"['CMG', 'SHW', 'BLK', 'BDX', 'NEM']",[[ 6.19  0.   66.19 27.62  0.  ]],Good

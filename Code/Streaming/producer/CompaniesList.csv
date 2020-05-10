@@ -1,0 +1,203 @@
+,company_symbol,Name,Sector
+0,MMM,3M Company,Industrials
+1,AOS,A.O. Smith Corporation,Industrials
+2,AYI,Acuity Brands Inc,Industrials
+3,ALK,Alaska Air Group Inc,Industrials
+4,ALLE,Allegion,Industrials
+5,AAL,American Airlines Group,Industrials
+6,AME,AMETEK Inc.,Industrials
+7,ARNC,Arconic Inc.,Industrials
+8,BA,Boeing Company,Industrials
+9,CHRW,C. H. Robinson Worldwide Inc,Industrials
+10,CAT,Caterpillar Inc.,Industrials
+11,CTAS,Cintas Corporation,Industrials
+12,CSX,CSX Corporation,Industrials
+13,CMI,Cummins Inc.,Industrials
+14,DE,Deere & Company,Industrials
+15,DAL,Delta Air Lines Inc.,Industrials
+16,DOV,Dover Corporation,Industrials
+17,ETN,Eaton Corporation,Industrials
+18,EMR,Emerson Electric Company,Industrials
+19,EFX,Equifax Inc.,Industrials
+20,ABT,Abbott Laboratories,Health Care
+21,ABBV,AbbVie Inc.,Health Care
+22,AET,Aetna Inc,Health Care
+23,A,Agilent Technologies Inc,Health Care
+24,ALXN,Alexion Pharmaceuticals Inc,Health Care
+25,ALGN,Align Technology Inc,Health Care
+26,AGN,Allergan Plc,Health Care
+27,ABC,AmerisourceBergen,Health Care
+28,AMGN,Amgen Inc.,Health Care
+29,ANTM,Anthem Inc.,Health Care
+30,BAX,Baxter International Inc.,Health Care
+31,BDX,Becton Dickinson,Health Care
+32,BIIB,Biogen Inc.,Health Care
+33,BSX,Boston Scientific Corporation,Health Care
+34,BMY,Bristol-Myers Squibb,Health Care
+35,CAH,Cardinal Health Inc.,Health Care
+36,CELG,Celgene Corp.,Health Care
+37,CNC,Centene Corporation,Health Care
+38,CERN,Cerner Corporation,Health Care
+39,CI,CIGNA Corporation,Health Care
+40,ACN,Accenture Plc,Information Technology
+41,ATVI,Activision Blizzard Inc.,Information Technology
+42,ADBE,Adobe Systems Inc,Information Technology
+43,AMD,Advanced Micro Devices Inc,Information Technology
+44,AKAM,Akamai Technologies Inc,Information Technology
+45,ADS,Alliance Data Systems Corporation,Information Technology
+46,GOOGL,Alphabet Inc Class A,Information Technology
+47,GOOG,Alphabet Inc Class C,Information Technology
+48,APH,Amphenol Corporation,Information Technology
+49,ADI,"Analog Devices, Inc.",Information Technology
+50,ANSS,ANSYS Inc.,Information Technology
+51,AAPL,Apple Inc.,Information Technology
+52,AMAT,Applied Materials Inc.,Information Technology
+53,ADSK,Autodesk Inc.,Information Technology
+54,ADP,Automatic Data Processing,Information Technology
+55,AVGO,Broadcom Inc.,Information Technology
+56,CA,"CA, Inc.",Information Technology
+57,CDNS,Cadence Design Systems Inc,Information Technology
+58,CSCO,Cisco Systems Inc,Information Technology
+59,CTXS,Citrix Systems Inc,Information Technology
+60,AAP,Advance Auto Parts Inc,Consumer Discretionary
+61,AMZN,Amazon.com Inc.,Consumer Discretionary
+62,APTV,Aptiv Plc,Consumer Discretionary
+63,AZO,AutoZone Inc,Consumer Discretionary
+64,BBY,Best Buy Co. Inc.,Consumer Discretionary
+65,BKNG,Booking Holdings Inc.,Consumer Discretionary
+66,BWA,BorgWarner Inc.,Consumer Discretionary
+67,KMX,Carmax Inc,Consumer Discretionary
+68,CCL,Carnival Corporation,Consumer Discretionary
+69,CBS,CBS Corporation,Consumer Discretionary
+70,CHTR,Charter Communications,Consumer Discretionary
+71,CMG,Chipotle Mexican Grill,Consumer Discretionary
+72,CMCSA,Comcast Corporation,Consumer Discretionary
+73,DHI,D. R. Horton Inc,Consumer Discretionary
+74,DRI,Darden Restaurants Inc,Consumer Discretionary
+75,DISCA,Discovery Inc. Class A,Consumer Discretionary
+76,DISCK,Discovery Inc. Class C,Consumer Discretionary
+77,DISH,Dish Network,Consumer Discretionary
+78,DG,Dollar General,Consumer Discretionary
+79,DLTR,Dollar Tree,Consumer Discretionary
+80,AES,AES Corporation,Utilities
+81,LNT,Alliant Energy Corporation,Utilities
+82,AEE,Ameren Corporation,Utilities
+83,AEP,American Electric Power Company,Utilities
+84,AWK,American Water Works Company Inc,Utilities
+85,CNP,CenterPoint Energy Inc,Utilities
+86,CMS,CMS Energy Corporation,Utilities
+87,ED,Consolidated Edison,Utilities
+88,D,Dominion Energy,Utilities
+89,DTE,DTE Energy ,Utilities
+90,DUK,Duke Energy,Utilities
+91,EIX,Edison International,Utilities
+92,ETR,Entergy Corporation,Utilities
+93,ES,Eversource Energy,Utilities
+94,EXC,Exelon Corporation,Utilities
+95,FE,FirstEnergy Corporation,Utilities
+96,NEE,NextEra Energy,Utilities
+97,NI,NiSource Inc.,Utilities
+98,NRG,NRG Energy,Utilities
+99,PCG,PG&E Corporation,Utilities
+100,AMG,Affiliated Managers Group Inc,Financials
+101,AFL,AFLAC Incorporated,Financials
+102,ALL,Allstate Corporation,Financials
+103,AXP,American Express Company,Financials
+104,AIG,"American International Group, Inc.",Financials
+105,AMP,Ameriprise Financial,Financials
+106,AON,Aon plc,Financials
+107,AJG,Arthur J. Gallagher & Co.,Financials
+108,AIZ,Assurant Inc.,Financials
+109,BAC,Bank of America Corp,Financials
+110,BBT,BB&T Corporation,Financials
+110,BBT,Trust Financial ,Financials
+111,BRK.B,Berkshire Hathaway,Financials
+112,BLK,BlackRock,Financials
+113,HRB,H&R Block Inc,Financials
+114,BHF,Brighthouse Financial Inc,Financials
+115,COF,Capital One Financial,Financials
+116,CBOE,Cboe Global Markets,Financials
+117,SCHW,Charles Schwab Corporation,Financials
+118,CB,Chubb Limited,Financials
+119,CINF,Cincinnati Financial Corporation,Financials
+120,APD,Air Products & Chemicals Inc,Materials
+121,ALB,Albemarle Corporation,Materials
+122,AVY,Avery Dennison Corporation,Materials
+123,BLL,Ball Corporation,Materials
+124,CF,CF Industries Holdings Inc,Materials
+125,DWDP,DuPont de Nemours Inc,Materials
+126,EMN,Eastman Chemical Company,Materials
+127,ECL,Ecolab Inc.,Materials
+128,FMC,FMC Corporation,Materials
+129,FCX,Freeport-McMoRan Inc.,Materials
+130,IP,International Paper,Materials
+131,IFF,International Flavors & Fragrances,Materials
+132,LYB,LyondellBasell Industries,Materials
+133,MLM,Martin Marietta Materials,Materials
+134,MON,Monsanto Company,Materials
+135,NEM,Newmont Mining Corporation,Materials
+136,NUE,Nucor Corporation,Materials
+137,PKG,Packaging Corporation of America,Materials
+138,PPG,PPG Industries,Materials
+139,PX,Praxair Inc.,Materials
+140,ARE,Alexandria Real Estate Equities Inc,Real Estate
+141,AMT,American Tower Corp,Real Estate
+142,AIV,Apartment Investment & Management,Real Estate
+143,AVB,"AvalonBay Communities, Inc.",Real Estate
+144,BXP,Boston Properties,Real Estate
+145,CBRE,CBRE Group,Real Estate
+146,CCI,Crown Castle International Corporation,Real Estate
+147,DLR,Digital Realty Trust Inc,Real Estate
+148,DRE,Duke Realty Corporation,Real Estate
+149,EQIX,Equinix,Real Estate
+150,EQR,Equity Residential,Real Estate
+151,ESS,"Essex Property Trust, Inc.",Real Estate
+152,EXR,Extra Space Storage,Real Estate
+153,FRT,Federal Realty Investment Trust,Real Estate
+154,GGP,General Growth Properties Inc.,Real Estate
+155,HCP,HCP Inc.,Real Estate
+155,HCP,Healthpeak Properties Inc,Real Estate
+156,HST,Host Hotels & Resorts,Real Estate
+157,IRM,Iron Mountain Incorporated,Real Estate
+158,KIM,Kimco Realty,Real Estate
+159,MAC,Macerich,Real Estate
+160,MO,Altria Group Inc,Consumer Staples
+161,ADM,Archer Daniels Midland Co,Consumer Staples
+162,WBA,Walgreens Boots Alliance,Consumer Staples
+163,CPB,Campbell Soup,Consumer Staples
+164,CHD,Church & Dwight,Consumer Staples
+165,KO,Coca-Cola Company ,Consumer Staples
+166,CL,Colgate-Palmolive,Consumer Staples
+167,CAG,Conagra Brands,Consumer Staples
+168,STZ,Constellation Brands,Consumer Staples
+169,COST,Costco Wholesale Corporation,Consumer Staples
+170,COTY,Coty Inc,Consumer Staples
+171,CVS,CVS Health,Consumer Staples
+172,DPS,Dr Pepper Snapple Group,Consumer Staples
+173,EL,Estee Lauder Company,Consumer Staples
+174,GIS,General Mills,Consumer Staples
+175,HRL,Hormel Foods Corporation,Consumer Staples
+176,SJM,JM Smucker,Consumer Staples
+177,K,Kellogg Company,Consumer Staples
+178,KMB,Kimberly Clark,Consumer Staples
+179,KHC,Kraft Heinz Company,Consumer Staples
+180,APC,Anadarko Petroleum Corporation,Energy
+181,ANDV,Andeavor,Energy
+182,APA,Apache Corporation,Energy
+183,BHGE,Baker Hughes,Energy
+184,COG,Cabot Oil & Gas,Energy
+185,CVX,Chevron Corporation,Energy
+186,XEC,Cimarex Energy,Energy
+187,CXO,Concho Resources,Energy
+188,COP,ConocoPhillips,Energy
+189,DVN,Devon Energy Corporation,Energy
+190,EOG,EOG Resources,Energy
+191,EQT,EQT Corporation,Energy
+192,XOM,Exxon Mobil Corporation,Energy
+193,HAL,Halliburton Company,Energy
+194,HP,Helmerich & Payne,Energy
+195,HES,Hess Corporation,Energy
+196,KMI,Kinder Morgan,Energy
+197,MRO,Marathon Oil Corporation,Energy
+198,MPC,Marathon Petroleum,Energy
+199,NOV,National Oilwell Varco Inc.,Energy

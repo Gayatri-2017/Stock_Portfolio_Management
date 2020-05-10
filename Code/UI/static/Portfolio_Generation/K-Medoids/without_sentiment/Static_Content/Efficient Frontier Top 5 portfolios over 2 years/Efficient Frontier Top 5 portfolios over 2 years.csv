@@ -1,0 +1,6 @@
+,Sharpe Ratio,Portfolio Annualised Return,Portfolio Annualised_Volatility,Stock Portfolio,Stocks Weight Allocation,Portfolio Tag
+25,2.384658968,1.09,0.45,"['NEE', 'ESS', 'AJG', 'BIIB', 'AMD', 'CAG', 'MRO', 'BAC', 'APC']",[[ 0.   41.42 15.69  0.    0.    0.    0.    0.   42.89]],Very Good
+44,2.349874404,1.24,0.52,"['GOOG', 'NEE', 'ESS', 'AJG', 'BIIB', 'AMD', 'CAG', 'MRO', 'BAC']",[[ 0.   50.22  0.    0.    0.    0.    0.    0.   49.78]],Very Good
+9,2.349874403,1.24,0.52,"['GOOGL', 'NEE', 'ESS', 'AJG', 'BIIB', 'AMD', 'CAG', 'MRO', 'BAC', 'CMCSA']",[[ 0.   50.22  0.    0.    0.    0.    0.    0.    0.   49.78]],Very Good
+26,2.349874396,1.24,0.52,"['NEE', 'ESS', 'AJG', 'BIIB', 'AMD', 'CAG', 'MRO', 'BAC', 'CPB']",[[ 0.   50.21  0.    0.    0.    0.    0.    0.   49.79]],Very Good
+24,2.349874395,1.24,0.52,"['NEE', 'ESS', 'AJG', 'BIIB', 'AMD', 'CAG', 'MRO', 'BAC', 'EXC']",[[ 0.   50.21  0.    0.    0.    0.    0.    0.   49.79]],Very Good
