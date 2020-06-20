@@ -228,6 +228,9 @@ Below is our [Project Milestone video](https://www.youtube.com/watch?v=IZPZtL_9j
 * [Anchal Jain](https://www.linkedin.com/in/anchal-jain-6b76863/) (anchalj@sfu.ca)
 * [Gayatri Ganapathy](https://www.linkedin.com/in/gayatriganapathy/) (gganapat@sfu.ca)
 
+## Team in Action
+![team_in_action](./readme_images/team_in_action.png)
+
 ## Acknowledgments
 
 * https://towardsdatascience.com/efficient-frontier-portfolio-optimisation-in-python-e7844051e7f
