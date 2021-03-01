@@ -104,7 +104,8 @@ with app.app_context():
             html.Div([
                 html.H2('StockZilla'),
                 html.H3('One Stop Solution For Portfolio Generation Using Unsupervised Learning')
-            ], style={'text-align': 'center', 'width': '100%', 'display': 'inline-block', 'vertical-align': 'middle','font-family':'Helvetica', 'color': 'white'}),
+            # ], style={'text-align': 'center', 'width': '100%', 'display': 'inline-block', 'vertical-align': 'middle','font-family':'Helvetica', 'color': 'white'}),
+            ], style={'text-align': 'center', 'width': '100%', 'display': 'inline-block', 'vertical-align': 'middle','font-family':'Helvetica', 'color': 'black'}),
             dcc.Tabs(id="tabs", value='viewohlcvplots', children=[
                 dcc.Tab(label='View OHLC Plots', value='viewohlcvplots', style=tab_style, selected_style=tab_selected_style),
                 dcc.Tab(label='View Feature Plots', value='viewfeatureplots', style=tab_style, selected_style=tab_selected_style),
@@ -115,7 +116,8 @@ with app.app_context():
             html.Div(id='tabs-content')
             ],style={'width': '100%','background-position': 'initial initial', 'background-repeat': 'initial initial'},
         )
-     ], style={'background-image': 'url("./static/images/background/background_2.gif")'})
+     # ], style={'background-image': 'url("./static/images/background/background_2.gif")'})
+     ], style={'background-image': 'url("./static/images/background/background_5.jpeg")'})
 
 #Render pageview according to tabs
 @dashapp.callback(Output('tabs-content', 'children'),
