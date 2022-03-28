@@ -214,6 +214,39 @@ Our website is also deployed on Amazon EC2 instance as [StockZilla](http://ec2-5
 ![UI_4](./readme_images/UI_4.png)
 ![UI_5](./readme_images/UI_5.png)
 
+## Results
+
+### Results (Without sentiment feature)
+
+![image](https://user-images.githubusercontent.com/30742345/160307702-395a5736-741f-4b02-8aea-ac9c999464ba.png)
+
+------------
+
+### Results (with the sentiment feature)
+
+![image](https://user-images.githubusercontent.com/30742345/160307756-1d96e924-a6c9-4e01-b070-81ff60544947.png)
+
+------------
+
+### Quarter-wise results for K-medoids-3 cluster( Without sentiment feature)
+
+![image](https://user-images.githubusercontent.com/30742345/160307858-54b0cf35-3075-443a-a2d7-a323950fe53e.png)
+
+------------
+
+### Quarter-wise results for K-medoids-3 cluster( With the sentiment feature)
+
+![image](https://user-images.githubusercontent.com/30742345/160307847-2ae6f54f-caf8-415c-b79b-77482456d42a.png)
+
+
+------------
+
+### Suggested Portfolios with K-medoids -3 cluster
+
+![image](https://user-images.githubusercontent.com/30742345/160307842-f0792e2e-b4dd-47f1-a5ca-8c25a7d1a8cd.png)
+
+
+
 ## Report
 
 You can have an overview of our project through our [YouTube video](https://youtu.be/stuchO6OG10) and can read in detail about our project in our [Medium report](https://medium.com/sfu-cspmp/stockzilla-f19c7d1b123a).
